@@ -1,0 +1,26 @@
+!!!! barbwire !!!!
+
+*background:#170f0d
+*foreground:#746c48
+
+*fading:10
+*fadeColor:#170f0d
+*transparent:0
+*shading:10
+
+*color0: #514624
+*color1: #625327
+*color2: #766A35
+*color3: #7E8141
+*color4: #877339
+*color5: #8C7947
+*color6: #95894E
+*color7: #A99355
+*color8: #B0A355
+*color9: #B2A269
+*color10: #C5A95B
+*color11: #C9B274
+*color12: #CDBA87
+*color13: #D3CCA7
+*color14: #D8C790
+*color15: #E7D7A4

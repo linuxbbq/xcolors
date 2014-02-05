@@ -1,0 +1,33 @@
+!!!! redphoenix !!!!
+
+!!NumixDarker
+*background:#1a1a1a
+*foreground:#d3d3d3
+*fadeColor:#1a1a1a
+
+!!NumixDarkest
+!*background:#000000
+!*foreground:#d3d3d3
+!*fadeColor:#000000
+
+*fading:20
+*transparent:0
+*shading:15
+
+*color0: #131313
+*color1: #2D2D2D
+*color2: #4C3A3D
+*color3: #4E4E4E
+*color4: #6F6F6F
+*color5: #909090
+*color6: #AAA998
+*color7: #B1B1B1
+*color8: #D1D1D1
+*color9: #D2C3AD
+*color10: #DF9767
+*color11: #E1E1E1
+*color12: #EDEDED
+*color13: #ED4B19
+*color14: #F2361E
+*color15: #FA390F
+

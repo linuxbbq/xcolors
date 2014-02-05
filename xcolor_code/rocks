@@ -1,0 +1,28 @@
+!!!! rocks !!!!
+
+*background:#1f1b18
+!*background:#170f0d
+*foreground:#b9ae9e
+!*foreground:#746c48
+
+*fading:10
+*fadeColor:#1f1b18
+*transparent:0
+*shading:70
+
+*color0: #251B27
+*color1: #4B3637
+*color2: #523F40
+*color3: #675455
+*color4: #6D5552
+*color5: #88573B
+*color6: #8C7C83
+*color7: #8F746D
+*color8: #906A59
+*color9: #9C8379
+*color10: #A19696
+*color11: #A98A77
+*color12: #AA958C
+*color13: #AEA9A9
+*color14: #C49F7A
+*color15: #D0CFC1

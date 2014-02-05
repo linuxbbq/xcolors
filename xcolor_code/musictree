@@ -1,0 +1,33 @@
+!!!! musictree !!!!
+
+*background:       #170F0D
+*foreground:       #746C48
+
+*transparent:      0	
+*shading:	       70 	
+*fading:		10
+*fadeColor:	#170F0D
+
+*color0:           #070301
+*color8:           #361701
+
+*color1:           #372815
+*color9:           #461D01
+
+*color2:           #572500
+*color10:          #6D2B07
+
+*color3:           #701D04
+*color11:          #774716
+
+*color4:           #8F3311
+*color12:          #A1581C
+
+*color5:           #A33316
+*color13:          #C26E40
+
+*color6:           #D18C2B
+*color14:          #D7562B
+
+*color7:           #E69E5C
+*color15:          #FBD58F

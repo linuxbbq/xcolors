@@ -1,0 +1,33 @@
+!!!! readamidst !!!!
+
+*background:       #170F0D
+*foreground:       #746C48
+
+*transparent:      0	
+*shading:	       70 	
+*fading:		10
+*fadeColor:	#170F0D
+
+*color0:           #1D1610
+*color8:           #30261D
+
+*color1:           #352E29
+*color9:           #3A4747
+
+*color2:           #453931
+*color10:          #473517
+
+*color3:           #514E4C
+*color11:          #554936
+
+*color4:           #616968
+*color12:          #6F969E
+
+*color5:           #7CB8C7
+*color13:          #8F896B
+
+*color6:           #96CCD8
+*color14:          #9AA2A2
+
+*color7:           #9DBDBD
+*color15:          #E7EAE9

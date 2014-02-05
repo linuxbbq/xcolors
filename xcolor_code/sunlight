@@ -1,0 +1,26 @@
+!!!! sunlight !!!!
+
+*background:       #170F0D
+*foreground:       #746C48
+
+*transparent:      0	
+*shading:	       70 	
+*fading:		10
+*fadeColor:	#170F0D
+
+*color0: #0B0601
+*color1: #2C1605
+*color2: #3D210B
+*color3: #421E05
+*color4: #4F2709
+*color5: #6E350B
+*color6: #7A4217
+*color7: #853D0A
+*color8: #904711
+*color9: #9C6F4A
+*color10: #AE5210
+*color11: #E26B14
+*color12: #FAF7A2
+*color13: #FDF24C
+*color14: #FE9D1C
+*color15: #FEE42A

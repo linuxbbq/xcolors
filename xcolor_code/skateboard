@@ -1,0 +1,32 @@
+!!!! skateboard !!!!
+
+!URxvt*background:       [85]#151515
+!URxvt*background:       [85]#1d1d1d
+!URxvt*background:      rgb:11/11/11 
+URxvt*background:        #252525
+URxvt*foreground:        rgb:99/99/99 
+!URxvt*foreground:       #999999
+!URxvt*foreground:       #7d7875
+!URxvt*foreground:       #d3d3d3
+
+URxvt*transparent:  0	
+URxvt*shading:	       50	
+URxvt*fading:	5	
+URxvt*.fadeColor:	#252525
+
+*color0: #121212
+*color1: #303030
+*color2: #4D4D4D
+*color3: #6E6E6E
+*color4: #909090
+*color5: #B0B0B0
+*color6: #D0D0D0
+*color7: #F7F7F7
+*color8: #121212
+*color9: #303030
+*color10: #4D4D4D
+*color11: #6E6E6E
+*color12: #909090
+*color13: #B0B0B0
+*color14: #D0D0D0
+*color15: #F7F7F7
