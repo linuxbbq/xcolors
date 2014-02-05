@@ -1,39 +1,24 @@
+!!!! browned !!!!
+
 *background: #1f1b18
 *foreground: #b9ae9e
-!*cursorColor: #93a1a1
-!URxvt*depth: 32
 *fading: 20
 *fadeColor: #1f1b18
 
-!! black dark/light
 *color0: #332d29
-*color8: #817267
-
-!! red dark/light
 *color1: #9a7474
-*color9: #ea8484
-! *color9: #907f71
-
-!! green dark/light
 *color2: #afbf83
-*color10: #b8c596
-
-!! yellow dark/light
 *color3: #efaf63
-*color11: #e0b37d
-
-!! blue dark/light
 *color4: #64657b
-*color12: #74758d
-
-!! magenta dark/light
 *color5: #7d6b5d
-*color13: #c5b3a6
-
-!! cyan dark/light
 *color6: #75715e
-*color14: #82827d
-
-!! white dark/light
 *color7: #f9cda2
+*color8: #817267
+*color9: #ea8484
+*color10: #b8c596
+*color11: #e0b37d
+*color12: #74758d
+*color13: #c5b3a6
+*color14: #82827d
 *color15: #fff0d9
+

@@ -1,14 +1,11 @@
 !!!! unsiftedwheat !!!!
 
-!*background: #170F0D
-!*foreground: #746C48
-!*fadeColor:  #170F0D
+*background: #170F0D
+*foreground: #746C48
+*fadeColor:  #170F0D
 
-*background: #000000
-*foreground: #d3d3d3
-*fadeColor:  #000000
 
-*transparent:1
+*transparent:0
 *shading: 15 	
 *fading: 20
 

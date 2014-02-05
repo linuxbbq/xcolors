@@ -1,16 +1,12 @@
 !!!! flowerdriveby !!!!
 
-!*background:       #170F0D
-*background:       #000000
-!*foreground:       #baa378 
-*foreground:       #999999
-!*foreground:       #746C48
+*background:       #170F0D
+*foreground:       #746C48
 
 *transparent:      0	
 *shading:	       70 	
 *fading:		10
-*fadeColor:	#000000
-!*fadeColor:	#170F0D
+*fadeColor:	#170F0D
 
 *color0: #2E1429
 *color1: #2F1D27
