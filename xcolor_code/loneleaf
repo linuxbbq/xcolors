@@ -1,11 +1,7 @@
 !!!! loneleaf !!!!
+
 *background:#170f0d
 *foreground:#746c48
-
-*fading:10
-*fadeColor:#170f0d
-*transparent:0
-*shading:70
 
 *color0: #221B25
 *color1: #2C2A35

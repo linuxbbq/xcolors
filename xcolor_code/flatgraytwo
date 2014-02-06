@@ -1,10 +1,10 @@
 !!! flatgraytwo !!!
 
-! color scheme
-*.background:    #CECECE
+*.background: #CECECE
 !*background: #cdcdbb
-*foreground: #2a251f
-! Black + DarkGrey
+*foreground:  #2a251f
+
+! Black
 *color0:  #100e0c
 *color8:  #2b2b25
 ! Red
@@ -25,6 +25,6 @@
 ! Cyan
 *color6:  #6a5e44
 *color14: #96988f
-! LightGrey + White
+! White
 *color7: #c6c2ab
 *color15: #f2eed1

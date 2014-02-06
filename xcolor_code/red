@@ -1,40 +1,22 @@
 !!!! RED !!!!
 
-URxvt*background:      #1a1a1a 
-URxvt*foreground:       #d3d3d3
-!URxvt*foreground:       #ffffff
+*background:      #1a1a1a 
+*foreground:       #d3d3d3
+!*foreground:       #ffffff
 
-URxvt*transparent:0
-URxvt*shading:	       7	
-URxvt*fading:		20
-URxvt*.fadeColor:	#1a1a1a
-URxvt.depth:256 
-
-!black
-URxvt*color0: #303030
-URxvt*color8: #474747
-!red 
-URxvt*color1: #f2361e
-!URxvt*color1: #BF1E2D
-URxvt*color9: #fa390f
-!URxvt*color9: #E7212A
-!green
-URxvt*color2: #D7D7D7
-URxvt*color10: #E6E6E6
-!yellow
-URxvt*color3: #666666
-URxvt*color11: #808080
-!blue
-URxvt*color4: #7d7875
-!URxvt*color4: #FFFFFF
-URxvt*color12: #ebebeb
-!magenta
-URxvt*color5: #C3143B
-URxvt*color13: #E82752
-!cyan
-URxvt*color6: #D4D4D4
-URxvt*color14: #EDEDED
-!white
-URxvt*color7: #ebebeb
-URxvt*color15: #cccccc
-
+*color0: #303030
+*color1: #f2361e
+*color2: #D7D7D7
+*color3: #666666
+*color4: #7d7875
+*color5: #C3143B
+*color6: #D4D4D4
+*color7: #ebebeb
+*color8: #474747
+*color9: #fa390f
+*color10: #E6E6E6
+*color11: #808080
+*color12: #ebebeb
+*color13: #E82752
+*color14: #EDEDED
+*color15: #cccccc

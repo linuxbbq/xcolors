@@ -1,13 +1,7 @@
 !!!! pidgeon !!!!
 
-URxvt*background:       #000000
-!URxvt*background:       [85]#1d1d1d
-URxvt*foreground:       #999999
-
-URxvt*transparent:  0	
-URxvt*shading:	       50	
-URxvt*fading:	5	
-URxvt*.fadeColor:	#000000
+*background:       #000000
+*foreground:       #999999
 
 *color0: #181B25
 *color1: #283646

@@ -1,13 +1,7 @@
 !!!! teva !!!!
 
 *background:       #170F0D
-!*foreground:       tan 
 *foreground:       #746C48
-
-*transparent:      0	
-*shading:	       70 	
-*fading:		10
-*fadeColor:	#170F0D
 
 *color0: #191F31
 *color1: #282E39

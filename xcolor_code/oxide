@@ -1,12 +1,7 @@
 !!!! oxide !!!!
 
-*background:       #170F0D
-*foreground:       #746C48
-
-*transparent:      0	
-*shading:	       70 	
-*fading:		10
-*fadeColor:	#170F0D
+*background: #170F0D
+*foreground: #746C48
 
 *color0: #2E1A1F
 *color1: #4E311F

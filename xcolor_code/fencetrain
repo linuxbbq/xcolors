@@ -2,15 +2,9 @@
 
 !*background:#170f0d
 !*foreground:#746c48
-!*fadeColor:#170f0d
 
 *background:#111111
 *foreground:#d3d3d3
-*fadeColor:#111111
-
-*fading:10
-*transparent: 0
-*shading:50
 
 *color0: #18152C
 *color1: #20172A

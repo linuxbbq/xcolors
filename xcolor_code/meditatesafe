@@ -1,13 +1,8 @@
 !!!! meditatesafe !!!!
 
-!*background:       #301f0d
+!*background:      #301f0d
 *background:       #170F0D
 *foreground:       #746C48
-
-*transparent:      0	
-*shading:	       70 	
-*fading:		10
-*fadeColor:	#170F0D
 
 *color0:           #2F1C13
 *color8:           #38261C

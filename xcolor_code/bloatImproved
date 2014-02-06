@@ -1,39 +1,21 @@
-!!!!!!!!!!!!!!!!!!!!!!!
-!BLOAT IMPROVED 
-!!!!!!!!!!!!!!!!!!!!!!!
-!URxvt*background:       [85]#151515
-!URxvt*background:        #1a1a1a
-URxvt*background:        #111111
-!URxvt*background:        #000000
-URxvt*foreground:       #d3d3d3
+!!!! bloatImproved !!!!
 
-URxvt*transparent:  0	
-URxvt*shading:	    20	
-URxvt*fading:		20
-URxvt*.fadeColor:	#111111
+*background: #1a1a1a
+*foreground: #d3d3d3
 
-
-URxvt*color0:      #000000
-URxvt*color1:		#d7d7d7
-URxvt*color2:      #A6BBA7
-URxvt*color3:      #345C2D
-URxvt*color4:		#7d7875
-!!URxvt*color5:      #91ba0d
-!URxvt*color5:      #963c59
-!MAGENTA
-*color5:               #969696
-URxvt*color6:      #83ACA7
-URxvt*color7:     #444444
-!URxvt*color7:     #C2C7CB
-URxvt*color8:		#537391
-URxvt*color9:     #d7d7d7 
-!URxvt*color9:      #888888
-URxvt*color10:     #B0D1AF
-URxvt*color11:     #fff796
-URxvt*color12:		#7d7875
-!!URxvt*color13:     #215578
-URxvt*color13:     #a46268
-!URxvt*color13:     #cf9ebe
-!URxvt*color14:     #4a2d43
-URxvt*color14:     #B0CFCF
-URxvt*color15:     #444444
+*color0:     #000000
+*color1:	 #d7d7d7
+*color2:     #A6BBA7
+*color3:     #345C2D
+*color4:	 #7d7875
+*color5:     #969696
+*color6:     #83ACA7
+*color7:     #444444
+*color8:	 #537391
+*color9:     #d7d7d7 
+*color10:    #B0D1AF
+*color11:    #fff796
+*color12:    #7d7875
+*color13:    #a46268
+*color14:    #B0CFCF
+*color15:    #444444

@@ -1,18 +1,8 @@
 !!!! redphoenix !!!!
 
-!!NumixDarker
 *background:#1a1a1a
 *foreground:#d3d3d3
-*fadeColor:#1a1a1a
-
-!!NumixDarkest
 !*background:#000000
-!*foreground:#d3d3d3
-!*fadeColor:#000000
-
-*fading:20
-*transparent:0
-*shading:15
 
 *color0: #131313
 *color1: #2D2D2D

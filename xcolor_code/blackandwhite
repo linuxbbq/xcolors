@@ -7,29 +7,30 @@
 !BLACK
 *color0:  #FFFFFF
 *color8:  #9A9A9A
+
 ! RED
-*color1:               #121212
-*color9:               #1C1C1C
+*color1:  #121212
+*color9:  #1C1C1C
 
 ! GREEN
-*color2:               #A5A5A5
-*color10:              #A4A4A4
+*color2:  #A5A5A5
+*color10: #A4A4A4
 
 !YELLOW
-*color3:               #777777
-*color11:              #646464
+*color3:  #777777
+*color11: #646464
 
 ! BLUE
-*color4:               #999999
-*color12:              #7C7C7C
+*color4:  #999999
+*color12: #7C7C7C
 
 ! MAGENTA
-*color5:               #4C4C4C
-*color13:              #515151
+*color5:  #4C4C4C
+*color13: #515151
 
 ! CYAN
-*color6:               #2B2B2B
-*color14:              #322929
+*color6:  #2B2B2B
+*color14: #322929
 
 !WHITE
 *color7:  #000000

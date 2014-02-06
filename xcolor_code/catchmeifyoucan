@@ -4,11 +4,6 @@
 *foreground:#f9f9f9
 !*foreground:#746c48
 
-*fading:10
-*fadeColor:#170f0d
-*transparent:0
-*shading:70
-
 *color0: #130F0C
 *color1: #604C38
 *color2: #8D7F85

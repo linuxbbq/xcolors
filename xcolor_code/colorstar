@@ -1,19 +1,7 @@
 !!!! colorstar !!!!
-URxvt*depth: 32
-*background:#111111
-!*background:#1a1a1a
-!*background:#222222
-!*background:#111111
-!*background:#000000
-*foreground:#d3d3d3
 
-URxvt*fading:20
-!*fadeColor:#1a1a1a
-!*fadeColor:#222222
-*fadeColor:#111111
-!*fadeColor:#000000
-*transparent: 0 
-*shading:0 
+*background:#111111
+*foreground:#d3d3d3
 
 *color0: #03010F
 *color1: #503b43

@@ -1,29 +1,7 @@
 !!!! panels !!!!
 
-!URxvt*depth: 32
-
-!!NumixBrown Colors
-!*background:#170f0d
-!*foreground:#746c48
-!*fadeColor:#170f0d
-
-!!NumixDarkest Colors
-!*background:#000000
-!*foreground:#d3d3d3
-!*fadeColor:#000000
-
-!!NumixDarker Colors
 *background:#111111
 *foreground:#d3d3d3
-*fadeColor:#111111
-
-!*background:#1a1a1a
-!*foreground:#d3d3d3
-!*fadeColor:#1a1a1a
-
-*fading:30
-*transparent:0
-*shading:10
 
 *color0: #191927
 *color1: #282F5E

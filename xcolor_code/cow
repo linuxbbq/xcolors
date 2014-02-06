@@ -5,11 +5,6 @@
 *foreground:       #b9ae9e
 !*foreground:       #746C48
 
-*transparent:      0	
-*shading:	       70 	
-*fading:		10
-*fadeColor:	#170F0D
-
 *color0: #16140F
 *color1: #453C27
 *color2: #5B4F35

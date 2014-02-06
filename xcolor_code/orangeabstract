@@ -1,10 +1,8 @@
-!!!! <> !!!!
+!!!! orangeabstract !!!!
+
 *background:#111111
 *foreground:#d3d3d3
-*fading:10
-*fadeColor:#111111
-*transparent:0
-*shading:70
+
 *color0: #017FA7
 *color1: #0382A9
 *color2: #2E2C30

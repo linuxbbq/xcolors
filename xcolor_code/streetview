@@ -1,23 +1,10 @@
 !!!! streetview !!!!
 
-!! NumixBrown
 !*background:#170f0d
 !*foreground:#746c48
-!*fadeColor:#170f0d
 
-!! NumixBlack
-!*background:#000000
-!*foreground:#d3d3d3
-!*fadeColor:#000000
-
-!! NumixDarkest !!
 *background:#111111
 *foreground:#d3d3d3
-*fadeColor:#111111
-
-*fading:10
-*transparent:0
-*shading:70
 
 *color0: #05060F
 *color1: #0C1126

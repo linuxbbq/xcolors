@@ -3,11 +3,6 @@
 *background:       #170F0D
 *foreground:       #746C48
 
-*transparent:      0	
-*shading:	       70 	
-*fading:		10
-*fadeColor:	#170F0D
-
 *color0: #0B0601
 *color1: #2C1605
 *color2: #3D210B

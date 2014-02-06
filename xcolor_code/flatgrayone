@@ -1,37 +1,37 @@
 !!! flatgrayone !!!
 
-URxvt.background:    #CECECE
-!URxvt.background:	#ffffff
-URxvt.foreground:    #000000
+**background:    #CECECE
+!*background:	#ffffff
+**foreground:    #000000
 
 !Black
-URxvt.color0:  #000000
-URxvt.color8:  #424242
+*color0:  #000000
+*color8:  #424242
 
 !Red
-URxvt.color1:  #294377
-URxvt.color9:  #566fb4
+*color1:  #294377
+*color9:  #566fb4
 
 !Green
-URxvt.color2:  #9278ab
-URxvt.color10: #a08ba0
+*color2:  #9278ab
+*color10: #a08ba0
 
 !Yellow
-URxvt.color3:  #a86c73
-URxvt.color11: #d0917f
+*color3:  #a86c73
+*color11: #d0917f
 
 !Blue
-URxvt.color4:  #51365c
-URxvt.color12: #424357
+*color4:  #51365c
+*color12: #424357
 
 !Magenta
-URxvt.color5:  #6b73b8
-URxvt.color13: #9296b0
+*color5:  #6b73b8
+*color13: #9296b0
 
 !Cyan
-URxvt.color6:  #386ecb
-URxvt.color14: #6a82a8
+*color6:  #386ecb
+*color14: #6a82a8
 
 !White
-URxvt.color7:  #666
-URxvt.color15: #ffffff
+*color7:  #666
+*color15: #ffffff
