@@ -1,0 +1,76 @@
+--- config.def.h	2013-04-20 08:29:39.000000000 -0500
++++ config.h	2014-02-07 06:23:46.847828811 -0600
+@@ -28,30 +28,33 @@
+ 
+ /* Terminal colors (16 first used in escape sequence) */
+ static const char *colorname[] = {
+-	/* 8 normal colors */
+-	"black",
+-	"red3",
+-	"green3",
+-	"yellow3",
+-	"blue2",
+-	"magenta3",
+-	"cyan3",
+-	"gray90",
+-
+-	/* 8 bright colors */
+-	"gray50",
+-	"red",
+-	"green",
+-	"yellow",
+-	"#5c5cff",
+-	"magenta",
+-	"cyan",
+-	"white",
+-
+-	[255] = 0,
+-
+-	/* more colors can be added after 255 to use with DefaultXX */
+-	"#cccccc",
++    /* 8 normal colors */
++    "#332863", /*color0*/
++    "#3C4573", /*color1*/
++    "#414E83", /*color2*/
++    "#54346C", /*color3*/
++    "#5A6A87", /*color4*/
++    "#684D75", /*color5*/
++    "#6D9093", /*color6*/
++    "#78837B", /*color7*/
++
++    /* 8 bright colors */
++    "#995C77", /*color8*/
++    "#A17284", /*color9*/
++    "#A1AA98", /*color10*/
++    "#B25D76", /*color11*/
++    "#B9C3A1", /*color12*/
++    "#C3977A", /*color13*/
++    "#D6AA89", /*color14*/
++    "#EEDCAF", /*color15*/
++
++    [255] = 0,
++
++    /* more colors can be added after 255 to use with DefaultXX */
++    "#cccccc", /*cursor*/
++    "#170f0d", /*background*/
++    "#746c48", /*foreground*/
++    "#303030",
+ };
+ 
+ 
+@@ -59,8 +62,8 @@
+  * Default colors (colorname index)
+  * foreground, background, cursor
+  */
+-static unsigned int defaultfg = 7;
+-static unsigned int defaultbg = 0;
++static unsigned int defaultfg = 258;
++static unsigned int defaultbg = 257;
+ static unsigned int defaultcs = 256;
+ 
+ /*
+@@ -329,4 +332,3 @@
+ static uint selmasks[] = {
+ 	[SEL_RECTANGULAR] = Mod1Mask,
+ };
+-
