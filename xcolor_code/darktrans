@@ -1,7 +1,6 @@
+! dkeg 2013,2014 !
+!  
 !!!! darktrans !!!!
-
-!! For True Transparency
-!URxvt.depth: 32
 
 !*background: #1a1a1a
 *background: #111111

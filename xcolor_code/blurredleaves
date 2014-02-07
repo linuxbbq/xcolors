@@ -1,10 +1,14 @@
+! dkeg 2013,2014 !
+!  
+! dkeg 2013,2014 !
+
 !!!! blurredleaves !!!!
 
 !*background:#170f0d
 !*foreground:#746c48
 
 *background:#1f1b18
-*fadeColor:#1f1b18
+*foreground:#b9ae9e
 
 *color0: #5C6370
 *color1: #5E252F

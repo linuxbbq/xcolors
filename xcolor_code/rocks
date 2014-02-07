@@ -1,8 +1,11 @@
+! dkeg 2013,2014 !
+!  
 !!!! rocks !!!!
 
 *background:#1f1b18
-!*background:#170f0d
 *foreground:#b9ae9e
+
+!*background:#170f0d
 !*foreground:#746c48
 
 *color0: #251B27
