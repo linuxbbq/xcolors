@@ -1,10 +1,11 @@
 ! dkeg 2013,2014 !
-!  
+  
 !!!! cow !!!!
 
 *background:       #1f1b18
-!*background:       #170F0D
 *foreground:       #b9ae9e
+
+!*background:       #170F0D
 !*foreground:       #746C48
 
 *color0: #16140F

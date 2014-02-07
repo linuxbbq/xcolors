@@ -1,39 +1,25 @@
 ! dkeg 2013,2014 !
-!  
+  
 !!! flatgrayone !!!
 
-**background:    #CECECE
+*background:    #CECECE
 !*background:	#ffffff
-**foreground:    #000000
+*foreground:    #000000
 
 !Black
 *color0:  #000000
-*color8:  #424242
-
-!Red
 *color1:  #294377
-*color9:  #566fb4
-
-!Green
 *color2:  #9278ab
-*color10: #a08ba0
-
-!Yellow
 *color3:  #a86c73
-*color11: #d0917f
-
-!Blue
 *color4:  #51365c
-*color12: #424357
-
-!Magenta
 *color5:  #6b73b8
-*color13: #9296b0
-
-!Cyan
 *color6:  #386ecb
-*color14: #6a82a8
-
-!White
 *color7:  #666
+*color8:  #424242
+*color9:  #566fb4
+*color10: #a08ba0
+*color11: #d0917f
+*color12: #424357
+*color13: #9296b0
+*color14: #6a82a8
 *color15: #ffffff

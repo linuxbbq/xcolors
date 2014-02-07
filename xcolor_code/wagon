@@ -1,9 +1,9 @@
 ! dkeg 2013,2014 !
-!  
+  
 !!!! wagon !!!!
 
-*background:       #170F0D
-*foreground:       #746C48
+*background: #170F0D
+*foreground: #746C48
 
 *color0: #1C1C19
 *color1: #2E2C29

@@ -1,9 +1,9 @@
 ! dkeg 2013,2014 !
-!  
+  
 !!!! weathered !!!!
 
-*background:       #170F0D
-*foreground:       #746C48
+*background: #170F0D
+*foreground: #746C48
 
 *color0: #14091E
 *color1: #1E1320

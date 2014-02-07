@@ -1,32 +1,24 @@
 ! dkeg 2013,2014 !
-!  
+  
 !!! flatgraytwo !!!
 
-*.background: #CECECE
+*background: #CECECE
 !*background: #cdcdbb
 *foreground:  #2a251f
 
-! Black
 *color0:  #100e0c
-*color8:  #2b2b25
-! Red
 *color1:  #4f2517
-*color9:  #704033 
-! Green
 *color2:  #667350
-*color10: #8b9d6e
-! Yellow
 *color3:  #8d7041
-*color11:  #d3a876
-! Blue
 *color4:  #384555
-*color12: #607985
-! Magenta
 *color5:  #2e231c
-*color13: #755947
-! Cyan
 *color6:  #6a5e44
-*color14: #96988f
-! White
 *color7: #c6c2ab
+*color8:  #2b2b25
+*color9:  #704033 
+*color10: #8b9d6e
+*color11:  #d3a876
+*color12: #607985
+*color13: #755947
+*color14: #96988f
 *color15: #f2eed1

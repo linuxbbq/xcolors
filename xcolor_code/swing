@@ -1,9 +1,9 @@
 ! dkeg 2013,2014 !
-!  
+  
 !!!! swing !!!!
 
-*background:       #170F0D
-*foreground:       #746C48
+*background: #170F0D
+*foreground: #746C48
 
 *color0: #110C09
 *color1: #231C17

@@ -1,9 +1,9 @@
 ! dkeg 2013,2014 !
-!  
+  
 !!!! sunlight !!!!
 
-*background:       #170F0D
-*foreground:       #746C48
+*background: #170F0D
+*foreground: #746C48
 
 *color0: #0B0601
 *color1: #2C1605
