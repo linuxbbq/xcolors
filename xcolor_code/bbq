@@ -1,8 +1,12 @@
+<<<<<<< HEAD
 ! machinebacon 2014
 ! photo for palette courtesy of
 ! photonucleon
 
 !!! bbq !!!
+=======
+!! bbq !!!
+>>>>>>> b729704fc392a12b929684a8c93a4024fe527065
 
 *background:#1a1a1a
 *foreground:#c7874b
@@ -22,4 +26,8 @@
 *color12: #B24716
 *color13: #CC5C23
 *color14: #DA7640
+<<<<<<< HEAD
 *color15: #F3A45B
+=======
+*color15: #F3A45B
+>>>>>>> b729704fc392a12b929684a8c93a4024fe527065
