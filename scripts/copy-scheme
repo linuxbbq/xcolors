@@ -1,0 +1,24 @@
+#!/bin/bash
+
+# script to be used when browsing xcolors_visual with ranger
+# script saves the .png and its associated color scheme to $SAVE_DIR
+#
+# bind this script to a key sequence in ranger rc.conf, like this:
+#
+# map ss shell ../copyscheme %f
+
+SAVE_DIR="../saved"
+
+[[ $1 = "" ]] && exit
+
+# get the scheme name from the .png
+scheme="../xcolor_code/$(basename "$1" .png)"
+
+if [[ ! -f "$scheme" ]]; then
+    echo "$scheme does not exist"
+else
+    [[ ! -d $SAVE_DIR ]] && mkdir $SAVE_DIR
+    cp "$scheme" $SAVE_DIR  # save the scheme file
+    cp "$1" $SAVE_DIR       # save the .png file
+fi
+
