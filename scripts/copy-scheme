@@ -5,7 +5,7 @@
 #
 # bind this script to a key sequence in ranger rc.conf, like this:
 #
-# map ss shell ../copyscheme %f
+# map ss shell ../scripts/copyscheme %f
 
 SAVE_DIR="../saved"
 
