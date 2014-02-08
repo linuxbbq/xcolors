@@ -3,7 +3,7 @@
 # script to be used when browsing xcolors_visual with ranger
 # script saves the .png and its associated color scheme to $SAVE_DIR
 #
-# bind this script to a key sequence in ranger rc.conf, like this:
+# bind this script to a key sequence in ~/.config/ranger/rc.conf, like this:
 #
 # map ss shell ../scripts/copyscheme %f
 
