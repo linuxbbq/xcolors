@@ -1,0 +1,61 @@
+31,54c31,57
+< 	/* 8 normal colors */
+< 	"black",
+< 	"red3",
+< 	"green3",
+< 	"yellow3",
+< 	"blue2",
+< 	"magenta3",
+< 	"cyan3",
+< 	"gray90",
+< 
+< 	/* 8 bright colors */
+< 	"gray50",
+< 	"red",
+< 	"green",
+< 	"yellow",
+< 	"#5c5cff",
+< 	"magenta",
+< 	"cyan",
+< 	"white",
+< 
+< 	[255] = 0,
+< 
+< 	/* more colors can be added after 255 to use with DefaultXX */
+< 	"#cccccc",
+---
+>     /* 8 normal colors */
+>     "#555555", /*color0*/
+>     "#d64937", /*color1*/
+>     "#86DF5D", /*color2*/
+>     "#FDD75A", /*color3*/
+>     "#0F75BD", /*color4*/
+>     "#9E5E83", /*color5*/
+>     "#37c3d6", /*color6*/
+>     "#f9f9f9", /*color7*/
+> 
+>     /* 8 bright colors */
+>     "#888888", /*color8*/
+>     "#9C3528", /*color9*/
+>     "#61BC3B", /*color10*/
+>     "#F3B43A", /*color11*/
+>     "#0D68A8", /*color12*/
+>     "#744560", /*color13*/
+>     "#288e9c", /*color14*/
+>     "#A2A2A2", /*color15*/
+> 
+>     [255] = 0,
+> 
+>     /* more colors can be added after 255 to use with DefaultXX */
+>     "#cccccc", /*cursor*/
+>     "#282828", /*background*/
+>     "#A2A2A2", /*foreground*/
+>     "#303030",
+62,63c65,66
+< static unsigned int defaultfg = 7;
+< static unsigned int defaultbg = 0;
+---
+> static unsigned int defaultfg = 258;
+> static unsigned int defaultbg = 257;
+332d334
+< 
