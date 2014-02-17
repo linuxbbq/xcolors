@@ -1,0 +1,19 @@
+#!/bin/bash
+ls /usr/local/share/console-colors/
+echo "Which theme to use (without extension)?"
+read THEME
+TMPFILE=/tmp/dkeger_store
+touch $TMPFILE
+XRSREAL=/home/$USER/.Xresources
+XRSFAKE=/home/$USER/.Xresources_new
+SELECTED=/home/$USER/console_colors/$THEME
+FULLNAME=("#include <${SELECTED}>")
+sed '/include/d' < $XRSREAL > $TMPFILE
+mv $TMPFILE $XRSREAL
+echo -e ${FULLNAME} >> $XRSREAL
+echo "$XRSREAL written..."
+xrdb -merge $XRSREAL
+echo "$XRSREAL merged..."
+echo "You can now close this terminal."
+#setsid x-terminal-emulator
+exit 0
