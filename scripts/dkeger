@@ -1,4 +1,12 @@
 #!/bin/bash
+#
+# 1) create an .Xresources file in the $USER directory without color elements
+# 2) add the line
+#     #include
+# 3) place xcolors files into /usr/local/share/console-colors 
+#
+# "dkeger" merges the .Xresources and the xcolors file
+
 ls /usr/local/share/console-colors/
 echo "Which theme to use (without extension)?"
 read THEME
@@ -6,7 +14,7 @@ TMPFILE=/tmp/dkeger_store
 touch $TMPFILE
 XRSREAL=/home/$USER/.Xresources
 XRSFAKE=/home/$USER/.Xresources_new
-SELECTED=/home/$USER/console_colors/$THEME
+SELECTED=/usr/local/share/console-colors/$THEME
 FULLNAME=("#include <${SELECTED}>")
 sed '/include/d' < $XRSREAL > $TMPFILE
 mv $TMPFILE $XRSREAL
