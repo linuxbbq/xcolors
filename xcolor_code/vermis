@@ -1,7 +1,7 @@
 ! franksinistra !
 !!! color ulcerate vermis !!!!
-URxvt*foreground: #d1bdb8
-URxvt*background: #231e1d
+*foreground: #d1bdb8
+*background: #231e1d
 ! black
 *color0:  #423a3a
 *color8:  #231e1d
