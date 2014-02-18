@@ -1,0 +1,21 @@
+#!/bin/bash
+
+# Gutterslob's "Visiblue" for fb-colors #
+
+echo -en "\e]P0000000" #background
+echo -en "\e]P8333399" #darkgrey
+echo -en "\e]P16666CC" #darkred
+echo -en "\e]P99999FF" #red
+echo -en "\e]P20099CC" #darkgreen
+echo -en "\e]PA00CCFF" #green
+echo -en "\e]P33366CC" #brown
+echo -en "\e]PB6699FF" #yellow
+echo -en "\e]P4006699" #darkblue
+echo -en "\e]PC0099CC" #blue
+echo -en "\e]P50066FF" #darkmagenta
+echo -en "\e]PD0099FF" #magenta
+echo -en "\e]P6669999" #darkcyan
+echo -en "\e]PE66CCCC" #cyan
+echo -en "\e]P799CCCC" #lightgrey
+echo -en "\e]PFCCFFFF" #white
+clear #for background artifacting
