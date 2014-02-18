@@ -1,4 +1,7 @@
 #!/bin/bash
+
+# Dkeg's "vintage" for fb-colors #
+
 echo -en "\e]P0170F0D" #background
 echo -en "\e]P875A689" #darkgrey
 echo -en "\e]P1222333" #darkred
