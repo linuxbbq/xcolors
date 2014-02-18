@@ -1,0 +1,22 @@
+#!/bin/bash
+
+# Baskerville's "Count Von Count" for fb-colors #
+# tweaked for console by DJ #
+
+echo -en "\e]P0303030" #background
+echo -en "\e]P85E5E5E" #darkgrey
+echo -en "\e]P1C10023" #darkred
+echo -en "\e]P9FF8781" #red
+echo -en "\e]P2A83334" #darkgreen
+echo -en "\e]PAFFA095" #green
+echo -en "\e]P3B51D2C" #brown
+echo -en "\e]PBFF948B" #yellow
+echo -en "\e]P48C4B46" #darkblue
+echo -en "\e]PCFEB2AA" #blue
+echo -en "\e]P57D534F" #darkmagenta
+echo -en "\e]PDEBBBB5" #magenta
+echo -en "\e]P69A413D" #darkcyan
+echo -en "\e]PEFFAAA0" #cyan
+echo -en "\e]P7C6C6C6" #lightgrey
+echo -en "\e]PFFFFFFF" #white
+clear #for background artifacting
