@@ -1,0 +1,6 @@
+fb_colors
+=====
+
+A set of scripts used to theme the basic linux console
+or to be used in conjunction with fb-term and create
+a framebuffer console.
