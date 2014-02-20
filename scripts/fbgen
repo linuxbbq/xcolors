@@ -24,4 +24,3 @@ sed -e 's/^\*background/echo -en \"\\e]P0/' \
 -e 's/^echo.*/&"/' \
 -e '1s/^/#!\/bin\/bash/' \
 $1
-# -e 's/][0-9]*/&"/' \
