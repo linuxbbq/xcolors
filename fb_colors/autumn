@@ -1,0 +1,21 @@
+#!/bin/bash
+
+# Dkeg's "autumn" for fb-colors #
+
+echo -en "\e]P0746c48" #background
+echo -en "\e]P89b5423" #darkgrey
+echo -en "\e]P12e1910" #darkred
+echo -en "\e]P9b09c8f" #red
+echo -en "\e]P2502911" #darkgreen
+echo -en "\e]PAb98c60" #green
+echo -en "\e]P35b331d" #brown
+echo -en "\e]PBca682a" #yellow
+echo -en "\e]P4644b31" #darkblue
+echo -en "\e]PCdeb291" #blue
+echo -en "\e]P56a574d" #darkmagenta
+echo -en "\e]PDe99b63" #magenta
+echo -en "\e]P6787e81" #darkcyan
+echo -en "\e]PEf4cea7" #cyan
+echo -en "\e]P7977054" #lightgrey
+echo -en "\e]PF746c48" #white
+clear #for background artifacting
