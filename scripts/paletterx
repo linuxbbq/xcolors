@@ -1,0 +1,17 @@
+#!/bin/bash
+# takes an image and creates a color palette from it
+# depends: imagemagick
+
+PALETTE=$(convert "$1" -colors 16 -format "%c" histogram:info:)
+HEXLIST=$(echo "$PALETTE" | sed 's/^.*\#\(.*\) srgb.*/\1/g')
+COL=("0" "8" "1" "9" "2" "A" "3" "B" "4" "C" "5" "D" "6" "E" "7" "F");
+CLEAN=$(echo $COL | sed 's/^0*//')
+
+x=0
+
+## Get the ouput of the color palette
+while read -r line; do
+    [[ "$line" ]] || continue
+    echo -en *color$x: '#'"${CLEAN}$line\n";
+    x=$((x+1))
+done < <(convert "$1" -colors 16 -format "%c" histogram:info: | sed 's/^.*\#\(.*\) srgb.*/\1/g')
