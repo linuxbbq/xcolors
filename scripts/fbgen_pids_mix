@@ -1,0 +1,22 @@
+#!/bin/bash
+
+echo -e "#!/bin/bash\n"
+
+awk '/^!/ {gsub(/!/, ""); printf "#%s\n", $0}' $1   # convert any comments to bash format
+
+awk -F# '/*background/ {printf "\necho -en \"\\e]P0%s\"\n\n", $2} \
+/*color1\y/ {printf "echo -en \"\\e]P1%s\"\n", $2} \
+/*color2\y/ {printf "echo -en \"\\e]P2%s\"\n", $2} \
+/*color3\y/ {printf "echo -en \"\\e]P3%s\"\n", $2} \
+/*color4\y/ {printf "echo -en \"\\e]P4%s\"\n", $2} \
+/*color5\y/ {printf "echo -en \"\\e]P5%s\"\n", $2} \
+/*color6\y/ {printf "echo -en \"\\e]P6%s\"\n", $2} \
+/*color7\y/ {printf "echo -en \"\\e]P7%s\"\n", $2} \
+/*color8\y/ {printf "echo -en \"\\e]P8%s\"\n", $2} \
+/*color9\y/ {printf "echo -en \"\\e]P9%s\"\n", $2} \
+/*color10\y/ {printf "echo -en \"\\e]PA%s\"\n", $2} \
+/*color11\y/ {printf "echo -en \"\\e]PB%s\"\n", $2} \
+/*color12\y/ {printf "echo -en \"\\e]PC%s\"\n", $2} \
+/*color13\y/ {printf "echo -en \"\\e]PD%s\"\n", $2} \
+/*color14\y/ {printf "echo -en \"\\e]PE%s\"\n", $2} \
+/*color15\y/ {printf "echo -en \"\\e]PF%s\"\n", $2}' $1
