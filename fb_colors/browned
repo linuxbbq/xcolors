@@ -1,0 +1,21 @@
+#!/bin/bash
+
+# browned 
+
+echo -en "\e]P01f1b18"
+
+echo -en "\e]P19a7474"
+echo -en "\e]P2afbf83"
+echo -en "\e]P3efaf63"
+echo -en "\e]P464657b"
+echo -en "\e]P57d6b5d"
+echo -en "\e]P675715e"
+echo -en "\e]P7f9cda2"
+echo -en "\e]P8817267"
+echo -en "\e]P9ea8484"
+echo -en "\e]PAb8c596"
+echo -en "\e]PBe0b37d"
+echo -en "\e]PC74758d"
+echo -en "\e]PDc5b3a6"
+echo -en "\e]PE82827d"
+echo -en "\e]PFfff0d9"
