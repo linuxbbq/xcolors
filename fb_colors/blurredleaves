@@ -1,0 +1,22 @@
+#!/bin/bash
+
+# dkeg 2013,2014
+# blurredleaves
+
+echo -en "\e]P0170f0d"
+echo -en "\e]P01f1b18"
+echo -en "\e]P15E252F"
+echo -en "\e]P2707B81"
+echo -en "\e]P3997460"
+echo -en "\e]P4A59688"
+echo -en "\e]P5A93D2F"
+echo -en "\e]P6AC5B29"
+echo -en "\e]P7AD8B6B"
+echo -en "\e]P8C2972B"
+echo -en "\e]P9D16B29"
+echo -en "\e]PADDA664"
+echo -en "\e]PBDFB389"
+echo -en "\e]PCE1972A"
+echo -en "\e]PDF6D28E"
+echo -en "\e]PEF8CF6D"
+echo -en "\e]PFFBE79A"
