@@ -1,0 +1,21 @@
+#!/bin/bash
+
+# dkeg 2013,2014
+# citystreets
+
+echo -en "\e]P0000000"
+echo -en "\e]P8837C78"
+echo -en "\e]P12D2B30"
+echo -en "\e]P989827D"
+echo -en "\e]P23F3D40"
+echo -en "\e]PAA7A099"
+echo -en "\e]P3413C3E"
+echo -en "\e]PBC2BEC1"
+echo -en "\e]P4423E41"
+echo -en "\e]PCC3BCB2"
+echo -en "\e]P54E4A4B"
+echo -en "\e]PDCBC5BA"
+echo -en "\e]P66E6765"
+echo -en "\e]PEE3DDD2"
+echo -en "\e]P7837E81"
+echo -en "\e]PFEFE8DC"
