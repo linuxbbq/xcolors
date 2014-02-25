@@ -1,0 +1,21 @@
+#!/bin/bash
+
+# dkeg 2013,2014
+# canvasedpastel
+
+echo -en "\e]P0170F0D"
+echo -en "\e]P1323027"
+echo -en "\e]P23D4339"
+echo -en "\e]P3443B2C"
+echo -en "\e]P4534D35"
+echo -en "\e]P5646756"
+echo -en "\e]P67B8574"
+echo -en "\e]P7837B61"
+echo -en "\e]P8999F91"
+echo -en "\e]P99B9773"
+echo -en "\e]PAB2B08C"
+echo -en "\e]PBC4BB8C"
+echo -en "\e]PCC4B67A"
+echo -en "\e]PDCFC995"
+echo -en "\e]PED3D4B6"
+echo -en "\e]PFD6D3AC"
