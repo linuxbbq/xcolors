@@ -1,0 +1,24 @@
+#!/bin/bash
+
+# dkeg 2013,2014 
+# cow 
+#*background:       #170F0D
+#*foreground:       #746C48
+
+echo -en "\e]P01f1b18"
+echo -en "\e]P0170F0D"
+echo -en "\e]P1453C27"
+echo -en "\e]P25B4F35"
+echo -en "\e]P3716853"
+echo -en "\e]P47C8264"
+echo -en "\e]P5857A61"
+echo -en "\e]P6866A34"
+echo -en "\e]P7918B71"
+echo -en "\e]P899906D"
+echo -en "\e]P99D9988"
+echo -en "\e]PAA68E50"
+echo -en "\e]PBACA795"
+echo -en "\e]PCB7B5AA"
+echo -en "\e]PDBFBFB6"
+echo -en "\e]PEC4C4BA"
+echo -en "\e]PFE8EAE9"
