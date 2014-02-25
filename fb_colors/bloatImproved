@@ -1,0 +1,21 @@
+#!/bin/bash
+
+# dkeg 2013,2014
+# bloatImproved
+
+echo -en "\e]P01a1a1a"
+echo -en "\e]P1d7d7d7"
+echo -en "\e]P2A6BBA7"
+echo -en "\e]P3345C2D"
+echo -en "\e]P47d7875"
+echo -en "\e]P5969696"
+echo -en "\e]P683ACA7"
+echo -en "\e]P7444444"
+echo -en "\e]P8537391"
+echo -en "\e]P9d7d7d7 "
+echo -en "\e]PAB0D1AF"
+echo -en "\e]PBfff796"
+echo -en "\e]PC7d7875"
+echo -en "\e]PDa46268"
+echo -en "\e]PEB0CFCF"
+echo -en "\e]PF444444"
