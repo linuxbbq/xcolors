@@ -1,0 +1,20 @@
+#!/bin/bash
+
+# blackandwhite
+
+echo -en "\e]P0FFFFFF"
+echo -en "\e]P89A9A9A"
+echo -en "\e]P1121212"
+echo -en "\e]P91C1C1C"
+echo -en "\e]P2A5A5A5"
+echo -en "\e]PAA4A4A4"
+echo -en "\e]P3777777"
+echo -en "\e]PB646464"
+echo -en "\e]P4999999"
+echo -en "\e]PC7C7C7C"
+echo -en "\e]P54C4C4C"
+echo -en "\e]PD515151"
+echo -en "\e]P62B2B2B"
+echo -en "\e]PE322929"
+echo -en "\e]P7000000"
+echo -en "\e]PF101010"
