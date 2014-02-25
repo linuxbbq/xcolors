@@ -1,0 +1,20 @@
+#!/bin/bash
+
+# dkeg 2013,2014
+# catchmeifyoucan
+echo -en "\e]P0170f0d"
+echo -en "\e]P1604C38"
+echo -en "\e]P28D7F85"
+echo -en "\e]P3907256"
+echo -en "\e]P4AA8D70"
+echo -en "\e]P5B9A38D"
+echo -en "\e]P6C4BFBF"
+echo -en "\e]P7C4AE99"
+echo -en "\e]P8C69F77"
+echo -en "\e]P9CAB9A8"
+echo -en "\e]PAD5C6B8"
+echo -en "\e]PBDCD1C7"
+echo -en "\e]PCE0E0E2"
+echo -en "\e]PDE4DAD2"
+echo -en "\e]PEEAE3DC"
+echo -en "\e]PFF6F2F0"
