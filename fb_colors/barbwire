@@ -1,0 +1,21 @@
+#!/bin/bash
+
+# dkeg 2013,2014 
+# barbwire 
+
+echo -en "\e]P0170f0d"
+echo -en "\e]P1625327"
+echo -en "\e]P2766A35"
+echo -en "\e]P37E8141"
+echo -en "\e]P4877339"
+echo -en "\e]P58C7947"
+echo -en "\e]P695894E"
+echo -en "\e]P7A99355"
+echo -en "\e]P8B0A355"
+echo -en "\e]P9B2A269"
+echo -en "\e]PAC5A95B"
+echo -en "\e]PBC9B274"
+echo -en "\e]PCCDBA87"
+echo -en "\e]PDD3CCA7"
+echo -en "\e]PED8C790"
+echo -en "\e]PFE7D7A4"
