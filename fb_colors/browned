@@ -1,9 +1,8 @@
 #!/bin/bash
 
-# browned 
+# browned
 
 echo -en "\e]P01f1b18"
-
 echo -en "\e]P19a7474"
 echo -en "\e]P2afbf83"
 echo -en "\e]P3efaf63"
