@@ -1,0 +1,24 @@
+#!/bin/bash
+
+# machinebacon 2014
+# photo for palette courtesy of
+# photonucleon
+# bbq 
+
+echo -en "\e]P01a1a1a"
+
+echo -en "\e]P12E0501"
+echo -en "\e]P23E2016"
+echo -en "\e]P34E1001"
+echo -en "\e]P45B2207"
+echo -en "\e]P5691B01"
+echo -en "\e]P6732605"
+echo -en "\e]P77D4022"
+echo -en "\e]P8832002"
+echo -en "\e]P98E310A"
+echo -en "\e]PAA63B0E"
+echo -en "\e]PBA84C1C"
+echo -en "\e]PCB24716"
+echo -en "\e]PDCC5C23"
+echo -en "\e]PEDA7640"
+echo -en "\e]PFF3A45B"
