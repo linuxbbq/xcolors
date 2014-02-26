@@ -2,20 +2,20 @@
 
 ## Console colors - ChefIronBelly - Red2;
 
-            echo -en "\e]P0303030" #background
-            echo -en "\e]P8bf1e2d" #
-            echo -en "\e]P1d7d7d7" #
-            echo -en "\e]P9666666" #
-            echo -en "\e]P27d7875" #
-            echo -en "\e]PAc3143b" #
-            echo -en "\e]P3d4d4d4" #
-            echo -en "\e]PBebebeb" #
-            echo -en "\e]P4474747" #
-            echo -en "\e]PCe7212a" #
-            echo -en "\e]P5e6e6e6" #
-            echo -en "\e]PD808080" #
-            echo -en "\e]P6ebebeb" #
-            echo -en "\e]PEe82752" #
-            echo -en "\e]P7ededed" #
-            echo -en "\e]PFcccccc" #
-            clear #for background artifacting
+echo -en "\e]P0303030" #background
+echo -en "\e]P8bf1e2d" #
+echo -en "\e]P1d7d7d7" #
+echo -en "\e]P9666666" #
+echo -en "\e]P27d7875" #
+echo -en "\e]PAc3143b" #
+echo -en "\e]P3d4d4d4" #
+echo -en "\e]PBebebeb" #
+echo -en "\e]P4474747" #
+echo -en "\e]PCe7212a" #
+echo -en "\e]P5e6e6e6" #
+echo -en "\e]PD808080" #
+echo -en "\e]P6ebebeb" #
+echo -en "\e]PEe82752" #
+echo -en "\e]P7ededed" #
+echo -en "\e]PFcccccc" #
+clear #for background artifacting
