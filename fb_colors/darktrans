@@ -1,0 +1,19 @@
+#!/bin/bash
+
+# darktrans
+echo -en "\e]P01a1a1a"
+echo -en "\e]P0111111"
+echo -en "\e]P1a35b66"
+echo -en "\e]P299ab6f"
+echo -en "\e]P3ca9733"
+echo -en "\e]P4495d6e"
+echo -en "\e]P5825969"
+echo -en "\e]P6839191"
+echo -en "\e]P7e0e0e0"
+echo -en "\e]P82e3436"
+echo -en "\e]P9ab6b74"
+echo -en "\e]PAacb972"
+echo -en "\e]PBccaa69"
+echo -en "\e]PC687987"
+echo -en "\e]PD977381"
+echo -en "\e]PE98a4a4"
