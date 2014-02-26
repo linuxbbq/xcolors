@@ -1,0 +1,20 @@
+#!/bin/bash
+
+##  Baconator's Reichswolf, for fb_colors;
+echo -en "\e]P0727c79" #background
+echo -en "\e]P8CAC26E" #darkgrey
+echo -en "\e]P14D4600" #darkred
+echo -en "\e]P9757040" #red
+echo -en "\e]P24E4A1D" #darkgreen
+echo -en "\e]PA5B7425" #green
+echo -en "\e]P3181D0C" #brown
+echo -en "\e]PB3E5310" #yellow
+echo -en "\e]P4414735" #darkblue
+echo -en "\e]PC181D0C" #blue
+echo -en "\e]P5282E1A" #darkmagenta
+echo -en "\e]PD592611" #magenta
+echo -en "\e]P61F2423" #darkcyan
+echo -en "\e]PE7B4028" #cyan
+echo -en "\e]P71A2C28" #lightgrey
+echo -en "\e]PF101615" #white
+clear #for background artifacting
