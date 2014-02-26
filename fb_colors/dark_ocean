@@ -1,0 +1,20 @@
+#!/bin/bash
+
+## Console colors - Doomicide - Dark Ocean;
+echo -en "\e]P0000000" #background
+echo -en "\e]P838372C" #darkgrey
+echo -en "\e]P1571DC2" #darkred
+echo -en "\e]P97C54b0" #red
+echo -en "\e]P214DB49" #darkgreen
+echo -en "\e]PAA2E655" #green
+echo -en "\e]P3403d70" #brown
+echo -en "\e]PB9C6F59" #yellow
+echo -en "\e]P4385A70" #darkblue
+echo -en "\e]PC323F5C" #blue
+echo -en "\e]P5384894" #darkmagenta
+echo -en "\e]PD5E6C99" #magenta
+echo -en "\e]P64F3A5E" #darkcyan
+echo -en "\e]PE667D77" #cyan
+echo -en "\e]P7999999" #lightgrey
+echo -en "\e]PFFFFFFF" #white
+clear #for background artifacting

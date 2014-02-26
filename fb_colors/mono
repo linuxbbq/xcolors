@@ -1,0 +1,21 @@
+#!/bin/bash
+
+## Console colors - Mono;
+# tweaked for console by WuxMedia;
+echo -en "\e]P0111111" #background
+echo -en "\e]P8B0B0B0" #darkgrey
+echo -en "\e]P15a5a5a" #darkred
+echo -en "\e]P9636363" #red
+echo -en "\e]P26B6B6B" #darkgreen
+echo -en "\e]PAA5A5A5" #green
+echo -en "\e]P3969696" #brown
+echo -en "\e]PBE5E5E5" #yellow
+echo -en "\e]P45a5a5a" #darkblue
+echo -en "\e]PC6c6c6c" #blue
+echo -en "\e]P5717171" #darkmagenta
+echo -en "\e]PD757575" #magenta
+echo -en "\e]P6777777" #darkcyan
+echo -en "\e]PEC4C4C4" #cyan
+echo -en "\e]P7FFFFFF" #lightgrey
+echo -en "\e]PFDEDEDE" #white
+clear #for background artifacting

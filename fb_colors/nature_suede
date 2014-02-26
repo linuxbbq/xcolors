@@ -1,0 +1,20 @@
+#!/bin/bash
+
+## Console colors - Gutterslob - Nature Suede;
+echo -en "\e]P0170F0D" #background
+echo -en "\e]P8544B2E" #darkgrey
+echo -en "\e]P198724C" #darkred
+echo -en "\e]P9AF652F" #red
+echo -en "\e]P2908F32" #darkgreen
+echo -en "\e]PAC3C13D" #green
+echo -en "\e]P3AA964C" #brown
+echo -en "\e]PBC8B55B" #yellow
+echo -en "\e]P47B854E" #darkblue
+echo -en "\e]PC70A16C" #blue
+echo -en "\e]P56B5644" #darkmagenta
+echo -en "\e]PD98724C" #magenta
+echo -en "\e]P65C5142" #darkcyan
+echo -en "\e]PE778725" #cyan
+echo -en "\e]P7C8B55B" #lightgrey
+echo -en "\e]PFE4DC8C" #white
+clear #for background artifacting

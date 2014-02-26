@@ -1,0 +1,20 @@
+#!/bin/bash
+
+## Console colors - Baconator - Cuppa;
+echo -en "\e]P0170F0D" #background
+echo -en "\e]P8353535" #darkgrey
+echo -en "\e]P1443322" #darkred
+echo -en "\e]P9AA7755" #red
+echo -en "\e]P25A5A46" #darkgreen
+echo -en "\e]PAAAAA99" #green
+echo -en "\e]P3997766" #brown
+echo -en "\e]PBDDDDCC" #yellow
+echo -en "\e]P446515A" #darkblue
+echo -en "\e]PCBBBBBB" #blue
+echo -en "\e]P5442C22" #darkmagenta
+echo -en "\e]PDCCBBAA" #magenta
+echo -en "\e]P6BBBBBB" #darkcyan
+echo -en "\e]PEDDDDDD" #cyan
+echo -en "\e]P7C2B9B5" #lightgrey
+echo -en "\e]PFD9D9D9" #white
+clear #for background artifacting

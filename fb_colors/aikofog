@@ -1,0 +1,20 @@
+#!/bin/bash
+
+## Console colors - Gutterslob - AikoFog;
+echo -en "\e]P0f1eee9" #background
+echo -en "\e]P84a4a4a" #darkgrey
+echo -en "\e]P1936a6f" #darkred
+echo -en "\e]P9d76572" #red
+echo -en "\e]P2668462" #darkgreen
+echo -en "\e]PA4fae42" #green
+echo -en "\e]P37f7b62" #brown
+echo -en "\e]PBa8981f" #yellow
+echo -en "\e]P46e7291" #darkblue
+echo -en "\e]PC7782cf" #blue
+echo -en "\e]P5846887" #darkmagenta
+echo -en "\e]PDb754c4" #magenta
+echo -en "\e]P6637e7b" #darkcyan
+echo -en "\e]PE2ea89a" #cyan
+echo -en "\e]P79a9a9a" #lightgrey
+echo -en "\e]PFc4c4c4" #white
+clear #for background artifacting

@@ -1,0 +1,20 @@
+#!/bin/bash
+
+## Console colors - Baskerville - IvoryLight;
+echo -en "\e]P0FEF9EC" #background
+echo -en "\e]P8C5C1B4" #darkgrey
+echo -en "\e]P1E75C58" #darkred
+echo -en "\e]P9B22B31" #red
+echo -en "\e]P200A250" #darkgreen
+echo -en "\e]PA007427" #green
+echo -en "\e]P3A08A00" #brown
+echo -en "\e]PB715F00" #yellow
+echo -en "\e]P4208FFB" #darkblue
+echo -en "\e]PC0065CA" #blue
+echo -en "\e]P5D160C4" #darkmagenta
+echo -en "\e]PDA03196" #magenta
+echo -en "\e]P600A4C1" #darkcyan
+echo -en "\e]PE007693" #cyan
+echo -en "\e]P73E424D" #lightgrey
+echo -en "\e]PF282C36" #white
+clear #for background artifacting

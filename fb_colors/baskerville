@@ -1,0 +1,20 @@
+#!/bin/bash
+
+## Console colors - FarSide - Baskerville;
+echo -en "\e]P0303030" #background
+echo -en "\e]P85E5E5E" #darkgrey
+echo -en "\e]P1A43261" #darkred
+echo -en "\e]P9FF9FC9" #red
+echo -en "\e]P2006CA5" #darkgreen
+echo -en "\e]PA3BD6FF" #green
+echo -en "\e]P3007086" #brown
+echo -en "\e]PB00DDF4" #yellow
+echo -en "\e]P46751A6" #darkblue
+echo -en "\e]PCD5B8FF" #blue
+echo -en "\e]P5913E88" #darkmagenta
+echo -en "\e]PDFFA7F6" #magenta
+echo -en "\e]P60061B1" #darkcyan
+echo -en "\e]PE93C9FF" #cyan
+echo -en "\e]P7C6C6C6" #lightgrey
+echo -en "\e]PFFFFFFF" #white
+clear #for background artifacting

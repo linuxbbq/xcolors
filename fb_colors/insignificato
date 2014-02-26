@@ -1,0 +1,20 @@
+#!/bin/bash
+
+## Console colors - anon - Insignificato;
+echo -en "\e]P0111111" #background
+echo -en "\e]P85a5b5c" #darkgrey
+echo -en "\e]P1755a5b" #darkred
+echo -en "\e]P9a37679" #red
+echo -en "\e]P268755a" #darkgreen
+echo -en "\e]PA87a376" #green
+echo -en "\e]P3756e5a" #brown
+echo -en "\e]PBa39b76" #yellow
+echo -en "\e]P45b6976" #darkblue
+echo -en "\e]PC758ba3" #blue
+echo -en "\e]P5755b76" #darkmagenta
+echo -en "\e]PD9f76a3" #magenta
+echo -en "\e]P65b7674" #darkcyan
+echo -en "\e]PE75a3a1" #cyan
+echo -en "\e]P7808080" #lightgrey
+echo -en "\e]PFaeafb0" #white
+clear #for background artifacting

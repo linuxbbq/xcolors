@@ -1,0 +1,20 @@
+#!/bin/bash
+
+## Console colors - Rooster - SOS;
+echo -en "\e]P0373B43" #background
+echo -en "\e]P8373B43" #darkgrey
+echo -en "\e]P1FDCD39" #darkred
+echo -en "\e]P9FDCD39" #red
+echo -en "\e]P2FBFD59" #darkgreen
+echo -en "\e]PAFBFD59" #green
+echo -en "\e]P3DEAC40" #brown
+echo -en "\e]PBDEAC40" #yellow
+echo -en "\e]P4AFB171" #darkblue
+echo -en "\e]PCAFB171" #blue
+echo -en "\e]P5B387E7" #darkmagenta
+echo -en "\e]PDB387E7" #magenta
+echo -en "\e]P663E860" #darkcyan
+echo -en "\e]PE63E860" #cyan
+echo -en "\e]P7EFDECB" #lightgrey
+echo -en "\e]PFEFDECB" #white
+clear #for background artifacting

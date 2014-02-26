@@ -1,0 +1,20 @@
+#!/bin/bash
+
+## Console colors - Baconator - Precision;
+echo -en "\e]P0313131" #background
+echo -en "\e]P8AEA79F" #darkgrey
+echo -en "\e]P177216F" #darkred
+echo -en "\e]P9924D8C" #red
+echo -en "\e]P2772953" #darkgreen
+echo -en "\e]PA925475" #green
+echo -en "\e]P3DD4814" #brown
+echo -en "\e]PBE46D43" #yellow
+echo -en "\e]P45E2750" #darkblue
+echo -en "\e]PC7E5273" #blue
+echo -en "\e]P52C001E" #darkmagenta
+echo -en "\e]PD56334B" #magenta
+echo -en "\e]P69E7D96" #darkcyan
+echo -en "\e]PEBFA9B9" #cyan
+echo -en "\e]P7CECAC5" #lightgrey
+echo -en "\e]PFEFEDEC" #white
+clear #for background artifacting

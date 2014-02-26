@@ -1,0 +1,20 @@
+#!/bin/bash
+
+## Console colors - Jani Nurminen - Zenburn;
+echo -en "\e]P01E2320" #background
+echo -en "\e]P8709080" #darkgrey
+echo -en "\e]P1705050" #darkred
+echo -en "\e]P9DCA3A3" #red
+echo -en "\e]P260B48A" #darkgreen
+echo -en "\e]PAC3Bf9F" #green
+echo -en "\e]P3DFAF8F" #brown
+echo -en "\e]PBF0DFAF" #yellow
+echo -en "\e]P4506070" #darkblue
+echo -en "\e]PC94BFF3" #blue
+echo -en "\e]P5DC8CC3" #darkmagenta
+echo -en "\e]PDEC93D3" #magenta
+echo -en "\e]P68CD0D3" #darkcyan
+echo -en "\e]PE93E0E3" #cyan
+echo -en "\e]P7DCDCCC" #lightgrey
+echo -en "\e]PFFFFFFF" #white
+clear #for background artifacting

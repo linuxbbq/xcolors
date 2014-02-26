@@ -1,0 +1,21 @@
+#!/bin/bash
+
+## Console colors - Emacs Tango Dark;
+# tweaked for the console by DebianJoe;
+echo -en "\e]P0202020" #background
+echo -en "\e]P8606060" #darkgrey
+echo -en "\e]P1FF6565" #darkred
+echo -en "\e]P9FF8D8D" #red
+echo -en "\e]P293D44F" #darkgreen
+echo -en "\e]PAC8E7A8" #green
+echo -en "\e]P3EAB93D" #brown
+echo -en "\e]PBFFC123" #yellow
+echo -en "\e]P4204A87" #darkblue
+echo -en "\e]PC3465A4" #blue
+echo -en "\e]P5CE5C00" #darkmagenta
+echo -en "\e]PDf57900" #magenta
+echo -en "\e]P689b6E2" #darkcyan
+echo -en "\e]PE46A4FF" #cyan
+echo -en "\e]P7CCCCCC" #lightgrey
+echo -en "\e]PFFFFFFF" #white
+clear #for background artifacting

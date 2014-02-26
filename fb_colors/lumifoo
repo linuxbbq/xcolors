@@ -1,0 +1,20 @@
+#!/bin/bash
+
+## Console colors - Gutterslob - Lumifoo;
+echo -en "\e]P01e2021" #background
+echo -en "\e]P8707172" #darkgrey
+echo -en "\e]P1bf6382" #darkred
+echo -en "\e]P9eaaec2" #red
+echo -en "\e]P265a446" #darkgreen
+echo -en "\e]PAaed49b" #green
+echo -en "\e]P3ad8a43" #brown
+echo -en "\e]PBd4c3a0" #yellow
+echo -en "\e]P46b85c2" #darkblue
+echo -en "\e]PCafc4e9" #blue
+echo -en "\e]P59e6bb8" #darkmagenta
+echo -en "\e]PDd2b1e2" #magenta
+echo -en "\e]P65c9d88" #darkcyan
+echo -en "\e]PEa4d0c1" #cyan
+echo -en "\e]P7919191" #lightgrey
+echo -en "\e]PFd0d0d0" #white
+clear #for background artifacting

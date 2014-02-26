@@ -1,0 +1,20 @@
+#!/bin/bash
+
+## Console colors - Anon - Astromouse;
+echo -en "\e]P01c1c1c" #background
+echo -en "\e]P83d3a3a" #darkgrey
+echo -en "\e]P1d770af" #darkred
+echo -en "\e]P9d28abf" #red
+echo -en "\e]P29acc79" #darkgreen
+echo -en "\e]PA8fb676" #green
+echo -en "\e]P3d0d26b" #brown
+echo -en "\e]PBc8bc45" #yellow
+echo -en "\e]P477b6c5" #darkblue
+echo -en "\e]PC8fa7b9" #blue
+echo -en "\e]P5a488d9" #darkmagenta
+echo -en "\e]PDbd89de" #magenta
+echo -en "\e]P67fcab3" #darkcyan
+echo -en "\e]PE6ec2a8" #cyan
+echo -en "\e]P78d8d8d" #lightgrey
+echo -en "\e]PFdad3d3" #white
+clear #for background artifacting

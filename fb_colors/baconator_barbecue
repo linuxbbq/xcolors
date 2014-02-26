@@ -1,0 +1,20 @@
+#!/bin/bash
+
+## Console colors - Baconator Barbecue;
+echo -en "\e]P01e2021" #020101
+echo -en "\e]P8832002" #darkgrey
+echo -en "\e]P12e0501" #darkred
+echo -en "\e]P98e310a" #red
+echo -en "\e]P23e2016" #darkgreen
+echo -en "\e]PAa63b0e" #green
+echo -en "\e]P34e1001" #brown
+echo -en "\e]PBa84c1c" #yellow
+echo -en "\e]P45b2207" #darkblue
+echo -en "\e]PCb24716" #blue
+echo -en "\e]P5691b01" #darkmagenta
+echo -en "\e]PDcc5c23" #magenta
+echo -en "\e]P6732605" #darkcyan
+echo -en "\e]PEda7640" #cyan
+echo -en "\e]P77d4022" #lightgrey
+echo -en "\e]PFf3a45b" #white
+clear #for background artifacting

@@ -1,0 +1,20 @@
+#!/bin/bash
+
+## Console colors - Solarized Dark;
+echo -en "\e]P0262626" #background
+echo -en "\e]P81c1c1c" #darkgrey
+echo -en "\e]P1d70000" #darkred
+echo -en "\e]P9d75f00" #red
+echo -en "\e]P25f8700" #darkgreen
+echo -en "\e]PA585858" #green
+echo -en "\e]P3af8700" #brown
+echo -en "\e]PB626262" #yellow
+echo -en "\e]P40087ff" #darkblue
+echo -en "\e]PC808080" #blue
+echo -en "\e]P5af005f" #darkmagenta
+echo -en "\e]PD5f5faf" #magenta
+echo -en "\e]P600afaf" #darkcyan
+echo -en "\e]PE8a8a8a" #cyan
+echo -en "\e]P7e4e4e4" #lightgrey
+echo -en "\e]PFffffd7" #white
+clear #for background artifacting

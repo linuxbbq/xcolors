@@ -1,0 +1,20 @@
+#!/bin/bash
+
+## Console colors - Baconator - Scotch Cut Mixture;
+echo -en "\e]P0050505" #background
+echo -en "\e]P85E5D68" #darkgrey
+echo -en "\e]P14E313F" #darkred
+echo -en "\e]P9C1889F" #red
+echo -en "\e]P25E657B" #darkgreen
+echo -en "\e]PA6B7B98" #green
+echo -en "\e]P3745B4A" #brown
+echo -en "\e]PB907B4D" #yellow
+echo -en "\e]P43A3A3A" #darkblue
+echo -en "\e]PC1A1A1A" #blue
+echo -en "\e]P53D2A33" #darkmagenta
+echo -en "\e]PD695974" #magenta
+echo -en "\e]P6435060" #darkcyan
+echo -en "\e]PE2F323E" #cyan
+echo -en "\e]P79D9592" #lightgrey
+echo -en "\e]PFDCD9BA" #white
+clear #for background artifacting

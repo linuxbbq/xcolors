@@ -1,0 +1,20 @@
+#!/bin/bash
+
+## Console colors - !OK-100 - Matrix;
+echo -en "\e]P0000000" #background
+echo -en "\e]P8000000" #darkgrey
+echo -en "\e]P155FF55" #darkred
+echo -en "\e]P955FF55" #red
+echo -en "\e]P200CC00" #darkgreen
+echo -en "\e]PA55FF55" #green
+echo -en "\e]P300CC00" #brown
+echo -en "\e]PB55FF55" #yellow
+echo -en "\e]P4005500" #darkblue
+echo -en "\e]PC005500" #blue
+echo -en "\e]P555FF55" #darkmagenta
+echo -en "\e]PD55FF55" #magenta
+echo -en "\e]P600CC00" #darkcyan
+echo -en "\e]PE55FF55" #cyan
+echo -en "\e]P700CC00" #lightgrey
+echo -en "\e]PF00CC00" #white
+clear #for background artifacting
