@@ -1,0 +1,19 @@
+#!/bin/bash
+
+# bluemoss by elixir
+echo -en "\e]P02E5C8A"
+echo -en "\e]P1193046"
+echo -en "\e]P2304558"
+echo -en "\e]P31A334C"
+echo -en "\e]P431475E"
+echo -en "\e]P5003333"
+echo -en "\e]P6194747"
+echo -en "\e]P7334C4C"
+echo -en "\e]P8475E5E"
+echo -en "\e]P91A4C33"
+echo -en "\e]PA315E47"
+echo -en "\e]PB003D00"
+echo -en "\e]PC195019"
+echo -en "\e]PD477347"
+echo -en "\e]PE477347"
+echo -en "\e]PF7DAD4C"
