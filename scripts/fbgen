@@ -4,7 +4,10 @@ echo -e "#!/bin/bash\n"
 
 awk '/^!/ {gsub(/!/, ""); printf "#%s\n", $0}' $1   # convert any comments to bash format
 
-awk -F# '/*background/ {printf "\necho -en \"\\e]P0%s\"\n\n", $2} \
+awk -F# '/^*background/ {printf "\n# %s\n", $0} \
+/^*foreground/ {printf "# %s\n", $0}' $1	# include original background and foreground as comments
+
+awk -F# '/^*background/ {printf "\necho -en \"\\e]P0%s\"\n\n", $2} \
 /*color1\y/ {printf "echo -en \"\\e]P1%s\"\n", $2} \
 /*color2\y/ {printf "echo -en \"\\e]P2%s\"\n", $2} \
 /*color3\y/ {printf "echo -en \"\\e]P3%s\"\n", $2} \
