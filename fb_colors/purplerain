@@ -1,0 +1,19 @@
+## Console colors - chefironbelly - purple rain
+    echo -en "\e]P0060119" #background
+    echo -en "\e]P8130429" #darkgrey
+    echo -en "\e]P1250b39" #darkred
+    echo -en "\e]P92b0b19" #red
+    echo -en "\e]P232144d" #darkgreen
+    echo -en "\e]PA3a205a" #green
+    echo -en "\e]P3483562" #brown
+    echo -en "\e]PB502e6e" #yellow
+    echo -en "\e]P4603c83" #darkblue
+    echo -en "\e]PC61427a" #blue
+    echo -en "\e]P56f4d8f" #darkmagenta
+    echo -en "\e]PD75549c" #magenta
+    echo -en "\e]P6853140" #darkcyan
+    echo -en "\e]PE8a64ac" #cyan
+    echo -en "\e]P7a075cd" #lightgrey
+    echo -en "\e]PFb88fe7" #white
+clear #for background artifacting
+    ;;
