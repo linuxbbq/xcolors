@@ -1,0 +1,20 @@
+#!/bin/bash
+
+# dkeg 2013,2014 
+# samarai 
+echo -en "\e]P0170F0D"
+echo -en "\e]P12D0B00"
+echo -en "\e]P2591E00"
+echo -en "\e]P35F4303"
+echo -en "\e]P4765301"
+echo -en "\e]P57D6B45"
+echo -en "\e]P6936D04"
+echo -en "\e]P7976F0D"
+echo -en "\e]P8AA831B"
+echo -en "\e]P9AE1D02"
+echo -en "\e]PAB68E2B"
+echo -en "\e]PBC39A3B"
+echo -en "\e]PCCCA146"
+echo -en "\e]PDD2A74C"
+echo -en "\e]PEDBB15E"
+echo -en "\e]PFFBE2A3"
