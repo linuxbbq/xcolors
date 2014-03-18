@@ -1,0 +1,20 @@
+#!/bin/bash
+
+# franksinistra 
+# jancuk 
+echo -en "\e]P02a2e35"
+echo -en "\e]P19da6a4"
+echo -en "\e]P294a8a8"
+echo -en "\e]P3a2a8a3"
+echo -en "\e]P487979c"
+echo -en "\e]P5808391"
+echo -en "\e]P6799494"
+echo -en "\e]P7c3c7bf"
+echo -en "\e]P82a2e35"
+echo -en "\e]P9bfc5bf"
+echo -en "\e]PAafc7c7"
+echo -en "\e]PBbbc2bc"
+echo -en "\e]PCa1afb5"
+echo -en "\e]PDadb0c4"
+echo -en "\e]PEa3c7c7"
+echo -en "\e]PFced1ca"
