@@ -1,0 +1,21 @@
+#!/bin/bash
+
+# dkeg 2013,2014 
+# meditatesafe 
+echo -en "\e]P0301f0d"
+echo -en "\e]P0170F0D"
+echo -en "\e]P13A2921"
+echo -en "\e]P2432B1C"
+echo -en "\e]P35B4739"
+echo -en "\e]P4845B3D"
+echo -en "\e]P5A28976"
+echo -en "\e]P6D6B69E"
+echo -en "\e]P7E4BEA3"
+echo -en "\e]P838261C"
+echo -en "\e]P93D3F40"
+echo -en "\e]PA463329"
+echo -en "\e]PB6A594C"
+echo -en "\e]PC8C7463"
+echo -en "\e]PDC0AB9C"
+echo -en "\e]PEDBC4B1"
+echo -en "\e]PFEAC5A9"
