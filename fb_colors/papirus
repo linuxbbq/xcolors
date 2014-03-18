@@ -1,0 +1,19 @@
+#!/bin/bash
+
+# franksinistra 
+echo -en "\e]P02e2c28"
+echo -en "\e]P82e2c28"
+echo -en "\e]P18c735a"
+echo -en "\e]P9998a7a"
+echo -en "\e]P2aec495"
+echo -en "\e]PAb4cc99"
+echo -en "\e]P3bfbb99"
+echo -en "\e]PBe6e3ca"
+echo -en "\e]P488a1ba"
+echo -en "\e]PC88a1ba"
+echo -en "\e]P56d6871"
+echo -en "\e]PD948d99"
+echo -en "\e]P65c5346"
+echo -en "\e]PE7a8735"
+echo -en "\e]P7c8b972"
+echo -en "\e]PFe4dd96"
