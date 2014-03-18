@@ -1,0 +1,20 @@
+#!/bin/bash
+
+# dkeg 2013,2014
+# readamidst 
+echo -en "\e]P0170F0D"
+echo -en "\e]P1352E29"
+echo -en "\e]P2453931"
+echo -en "\e]P3514E4C"
+echo -en "\e]P4616968"
+echo -en "\e]P57CB8C7"
+echo -en "\e]P696CCD8"
+echo -en "\e]P79DBDBD"
+echo -en "\e]P830261D"
+echo -en "\e]P93A4747"
+echo -en "\e]PA473517"
+echo -en "\e]PB554936"
+echo -en "\e]PC6F969E"
+echo -en "\e]PD8F896B"
+echo -en "\e]PE9AA2A2"
+echo -en "\e]PFE7EAE9"
