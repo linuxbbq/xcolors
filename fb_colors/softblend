@@ -1,0 +1,20 @@
+#!/bin/bash
+
+# dkeg 2013,2014 
+# softblend 
+echo -en "\e]P0170f0d"
+echo -en "\e]P11D231A"
+echo -en "\e]P22D3424"
+echo -en "\e]P32D1A08"
+echo -en "\e]P4302713"
+echo -en "\e]P54E2C10"
+echo -en "\e]P6505A38"
+echo -en "\e]P7635128"
+echo -en "\e]P8673A15"
+echo -en "\e]P97C874F"
+echo -en "\e]PA9B6327"
+echo -en "\e]PBA1A554"
+echo -en "\e]PCBD7C30"
+echo -en "\e]PDBFA549"
+echo -en "\e]PECA9339"
+echo -en "\e]PFD2AF4A"
