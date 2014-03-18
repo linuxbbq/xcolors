@@ -1,0 +1,20 @@
+#!/bin/bash
+
+# dkeg 2013,2014 
+# thestare 
+echo -en "\e]P0170f0d"
+echo -en "\e]P1474B3E"
+echo -en "\e]P25C7789"
+echo -en "\e]P3618A93"
+echo -en "\e]P462625E"
+echo -en "\e]P5728870"
+echo -en "\e]P67CA6C2"
+echo -en "\e]P7807F84"
+echo -en "\e]P88C6B59"
+echo -en "\e]P98E776A"
+echo -en "\e]PAA28777"
+echo -en "\e]PBA4A29D"
+echo -en "\e]PCB5C5C7"
+echo -en "\e]PDC59D7A"
+echo -en "\e]PECDB3A2"
+echo -en "\e]PFDBDAD8"
