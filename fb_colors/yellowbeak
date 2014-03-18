@@ -1,0 +1,20 @@
+#!/bin/bash
+
+# dkeg 2014  
+# yellowbeak 
+echo -en "\e]P0111111"
+echo -en "\e]P1262516"
+echo -en "\e]P2303030"
+echo -en "\e]P34C4B31"
+echo -en "\e]P44F4F4F"
+echo -en "\e]P5666658"
+echo -en "\e]P66E6E6E"
+echo -en "\e]P77F796A"
+echo -en "\e]P88E8E8E"
+echo -en "\e]P9A1A19E"
+echo -en "\e]PAACA05A"
+echo -en "\e]PBB0B0B0"
+echo -en "\e]PCCECECE"
+echo -en "\e]PDD1C9AA"
+echo -en "\e]PEE3E0DB"
+echo -en "\e]PFE7E7E7"
