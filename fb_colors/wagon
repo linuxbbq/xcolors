@@ -1,0 +1,20 @@
+#!/bin/bash
+
+# dkeg 2013,2014 
+# wagon 
+echo -en "\e]P0170F0D"
+echo -en "\e]P12E2C29"
+echo -en "\e]P246413B"
+echo -en "\e]P35A5F55"
+echo -en "\e]P46F9558"
+echo -en "\e]P5737987"
+echo -en "\e]P676978F"
+echo -en "\e]P776B64C"
+echo -en "\e]P895A39D"
+echo -en "\e]P998A267"
+echo -en "\e]PAA76B5E"
+echo -en "\e]PBA7C4BF"
+echo -en "\e]PCC9AE6E"
+echo -en "\e]PDE3AE98"
+echo -en "\e]PEE4CAAE"
+echo -en "\e]PFE9D5CC"
