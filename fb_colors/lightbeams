@@ -1,0 +1,21 @@
+#!/bin/bash
+
+# dkeg 2013,2014 
+# lightbeams 
+
+echo -en "\e]P0170f0d"
+echo -en "\e]P13D241B"
+echo -en "\e]P23E2723"
+echo -en "\e]P345291B"
+echo -en "\e]P4461F1B"
+echo -en "\e]P5462E26"
+echo -en "\e]P6473E38"
+echo -en "\e]P7524A33"
+echo -en "\e]P8606248"
+echo -en "\e]P96C542F"
+echo -en "\e]PA7C8456"
+echo -en "\e]PB9D672A"
+echo -en "\e]PCB17436"
+echo -en "\e]PDC89647"
+echo -en "\e]PEFDD16E"
+echo -en "\e]PFFED486"
