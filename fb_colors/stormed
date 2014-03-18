@@ -1,0 +1,20 @@
+#!/bin/bash
+
+# dkeg 2013,2014 
+# stormed 
+echo -en "\e]P01f1b18"
+echo -en "\e]P1746957"
+echo -en "\e]P287785E"
+echo -en "\e]P3877A66"
+echo -en "\e]P4978A75"
+echo -en "\e]P5A79A86"
+echo -en "\e]P6A99676"
+echo -en "\e]P7B5A894"
+echo -en "\e]P8B8AB9A"
+echo -en "\e]P9C6B9A7"
+echo -en "\e]PAC7AA7B"
+echo -en "\e]PBC9B492"
+echo -en "\e]PCD4C5B0"
+echo -en "\e]PDE9D5B4"
+echo -en "\e]PEEBD5AE"
+echo -en "\e]PFFBEDCB"
