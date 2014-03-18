@@ -1,0 +1,20 @@
+#!/bin/bash
+
+# dkeg 2013,2014 
+# gauged 
+echo -en "\e]P0170f0d"
+echo -en "\e]P13C4573"
+echo -en "\e]P2414E83"
+echo -en "\e]P354346C"
+echo -en "\e]P45A6A87"
+echo -en "\e]P5684D75"
+echo -en "\e]P66D9093"
+echo -en "\e]P778837B"
+echo -en "\e]P8995C77"
+echo -en "\e]P9A17284"
+echo -en "\e]PAA1AA98"
+echo -en "\e]PBB25D76"
+echo -en "\e]PCB9C3A1"
+echo -en "\e]PDC3977A"
+echo -en "\e]PED6AA89"
+echo -en "\e]PFEEDCAF"
