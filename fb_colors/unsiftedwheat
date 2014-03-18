@@ -1,0 +1,20 @@
+#!/bin/bash
+
+# dkeg 2013,2014 
+# unsiftedwheat 
+echo -en "\e]P0170F0D"
+echo -en "\e]P148393A"
+echo -en "\e]P265534D"
+echo -en "\e]P379665A"
+echo -en "\e]P4836E5E"
+echo -en "\e]P58E7766"
+echo -en "\e]P6917781"
+echo -en "\e]P79A846D"
+echo -en "\e]P8AC9377"
+echo -en "\e]P9BAA17E"
+echo -en "\e]PABCA282"
+echo -en "\e]PBC1A67E"
+echo -en "\e]PCCFB48E"
+echo -en "\e]PDD1BAA3"
+echo -en "\e]PEDFC39B"
+echo -en "\e]PFEED8C4"
