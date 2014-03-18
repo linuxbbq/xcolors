@@ -1,0 +1,20 @@
+#!/bin/bash
+
+# dkeg 2013,2014 
+# pidgeon 
+echo -en "\e]P0000000"
+echo -en "\e]P1283646"
+echo -en "\e]P22C2A30"
+echo -en "\e]P3354C4E"
+echo -en "\e]P445443C"
+echo -en "\e]P55A6557"
+echo -en "\e]P6758572"
+echo -en "\e]P7837D72"
+echo -en "\e]P8938D6C"
+echo -en "\e]P9A8B199"
+echo -en "\e]PAB7C39C"
+echo -en "\e]PBBBC5AB"
+echo -en "\e]PCC8CDB3"
+echo -en "\e]PDD39A74"
+echo -en "\e]PED6D2B8"
+echo -en "\e]PFDFD6AF"
