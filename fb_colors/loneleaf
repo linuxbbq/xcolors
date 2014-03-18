@@ -1,0 +1,20 @@
+#!/bin/bash
+
+# dkeg 2013,2014 
+# loneleaf
+echo -en "\e]P0170f0d"
+echo -en "\e]P12C2A35"
+echo -en "\e]P2323546"
+echo -en "\e]P3453D43"
+echo -en "\e]P4547787"
+echo -en "\e]P55D5455"
+echo -en "\e]P66E8F93"
+echo -en "\e]P76F7570"
+echo -en "\e]P879847A"
+echo -en "\e]P98E8979"
+echo -en "\e]PA8E6E60"
+echo -en "\e]PB8F9485"
+echo -en "\e]PC90543F"
+echo -en "\e]PDA5A894"
+echo -en "\e]PEC69B79"
+echo -en "\e]PFD2B897"
