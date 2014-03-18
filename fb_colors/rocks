@@ -1,0 +1,21 @@
+#!/bin/bash
+
+# dkeg 2013,2014 
+# rocks 
+echo -en "\e]P01f1b18"
+echo -en "\e]P0170f0d"
+echo -en "\e]P14B3637"
+echo -en "\e]P2523F40"
+echo -en "\e]P3675455"
+echo -en "\e]P46D5552"
+echo -en "\e]P588573B"
+echo -en "\e]P68C7C83"
+echo -en "\e]P78F746D"
+echo -en "\e]P8906A59"
+echo -en "\e]P99C8379"
+echo -en "\e]PAA19696"
+echo -en "\e]PBA98A77"
+echo -en "\e]PCAA958C"
+echo -en "\e]PDAEA9A9"
+echo -en "\e]PEC49F7A"
+echo -en "\e]PFD0CFC1"
