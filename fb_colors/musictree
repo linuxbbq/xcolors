@@ -1,0 +1,21 @@
+#!/bin/bash
+
+# dkeg 2013,2014 
+# musictree 
+
+echo -en "\e]P0170F0D"
+echo -en "\e]P1372815"
+echo -en "\e]P2572500"
+echo -en "\e]P3701D04"
+echo -en "\e]P48F3311"
+echo -en "\e]P5A33316"
+echo -en "\e]P6D18C2B"
+echo -en "\e]P7E69E5C"
+echo -en "\e]P8361701"
+echo -en "\e]P9461D01"
+echo -en "\e]PA6D2B07"
+echo -en "\e]PB774716"
+echo -en "\e]PCA1581C"
+echo -en "\e]PDC26E40"
+echo -en "\e]PED7562B"
+echo -en "\e]PFFBD58F"
