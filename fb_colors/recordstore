@@ -1,0 +1,20 @@
+#!/bin/bash
+
+# dkeg 2013,2014 
+# recordstore 
+echo -en "\e]P0170F0D"
+echo -en "\e]P1373231"
+echo -en "\e]P2583631"
+echo -en "\e]P36E4B47"
+echo -en "\e]P4744438"
+echo -en "\e]P58E4D3A"
+echo -en "\e]P6917789"
+echo -en "\e]P7A46650"
+echo -en "\e]P8B56851"
+echo -en "\e]P9B7A993"
+echo -en "\e]PAB88A6E"
+echo -en "\e]PBCC956F"
+echo -en "\e]PCD5AF98"
+echo -en "\e]PDE0C8B4"
+echo -en "\e]PEEADACE"
+echo -en "\e]PFFBF8F6"
