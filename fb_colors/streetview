@@ -1,0 +1,21 @@
+#!/bin/bash
+
+# dkeg 2013,2014 
+# streetview 
+echo -en "\e]P0170f0d"
+echo -en "\e]P0111111"
+echo -en "\e]P10C1126"
+echo -en "\e]P229272F"
+echo -en "\e]P32C3547"
+echo -en "\e]P4464042"
+echo -en "\e]P5615D5D"
+echo -en "\e]P67C7F7E"
+echo -en "\e]P78C7566"
+echo -en "\e]P8975C45"
+echo -en "\e]P99F8B75"
+echo -en "\e]PAA89F93"
+echo -en "\e]PBBDC1B9"
+echo -en "\e]PCC8A077"
+echo -en "\e]PDCBB59E"
+echo -en "\e]PEDECCB3"
+echo -en "\e]PFF2E6D8"
