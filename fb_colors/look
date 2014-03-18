@@ -1,0 +1,21 @@
+#!/bin/bash
+
+# dkeg 2013,2014 
+# look 
+
+echo -en "\e]P0170f0d"
+echo -en "\e]P14E3428"
+echo -en "\e]P24F3727"
+echo -en "\e]P37A436B"
+echo -en "\e]P488745E"
+echo -en "\e]P5A09071"
+echo -en "\e]P6B6A78A"
+echo -en "\e]P7CABBA3"
+echo -en "\e]P8CAB57B"
+echo -en "\e]P9D0BB84"
+echo -en "\e]PAD7C693"
+echo -en "\e]PBDDCFA4"
+echo -en "\e]PCE5D9B4"
+echo -en "\e]PDE9DFC1"
+echo -en "\e]PEE9E0BD"
+echo -en "\e]PFEDE4C6"
