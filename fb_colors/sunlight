@@ -1,0 +1,22 @@
+#!/bin/bash
+
+# dkeg 2013,2014 
+# sunlight 
+
+echo -en "\e]P0170F0D"
+
+echo -en "\e]P12C1605"
+echo -en "\e]P23D210B"
+echo -en "\e]P3421E05"
+echo -en "\e]P44F2709"
+echo -en "\e]P56E350B"
+echo -en "\e]P67A4217"
+echo -en "\e]P7853D0A"
+echo -en "\e]P8904711"
+echo -en "\e]P99C6F4A"
+echo -en "\e]PAAE5210"
+echo -en "\e]PBE26B14"
+echo -en "\e]PCFAF7A2"
+echo -en "\e]PDFDF24C"
+echo -en "\e]PEFE9D1C"
+echo -en "\e]PFFEE42A"
