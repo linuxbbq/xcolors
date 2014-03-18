@@ -1,0 +1,20 @@
+#!/bin/bash
+
+# dkeg 2013,2014 
+# teva 
+echo -en "\e]P0170F0D"
+echo -en "\e]P1282E39"
+echo -en "\e]P2303844"
+echo -en "\e]P33B444A"
+echo -en "\e]P43C4435"
+echo -en "\e]P54E534F"
+echo -en "\e]P65D5D35"
+echo -en "\e]P766695D"
+echo -en "\e]P8706D56"
+echo -en "\e]P98B7852"
+echo -en "\e]PA909581"
+echo -en "\e]PB91703A"
+echo -en "\e]PC948658"
+echo -en "\e]PDA19662"
+echo -en "\e]PEAD9152"
+echo -en "\e]PFC6A13F"
