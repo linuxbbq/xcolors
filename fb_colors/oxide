@@ -1,0 +1,20 @@
+#!/bin/bash
+
+# dkeg 2013,2014 
+# oxide 
+echo -en "\e]P0170F0D"
+echo -en "\e]P14E311F"
+echo -en "\e]P24F342C"
+echo -en "\e]P3573843"
+echo -en "\e]P4644B31"
+echo -en "\e]P56E5234"
+echo -en "\e]P6765B45"
+echo -en "\e]P7827F68"
+echo -en "\e]P88A693A"
+echo -en "\e]P991754D"
+echo -en "\e]PA9C6B4A"
+echo -en "\e]PB9C8258"
+echo -en "\e]PCAA8C5D"
+echo -en "\e]PDAB6544"
+echo -en "\e]PEC8AA76"
+echo -en "\e]PFD6BC8A"
