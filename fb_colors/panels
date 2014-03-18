@@ -1,0 +1,20 @@
+#!/bin/bash
+
+# dkeg 2013,2014 
+# panels 
+echo -en "\e]P0111111"
+echo -en "\e]P1282F5E"
+echo -en "\e]P22B4593"
+echo -en "\e]P3344276"
+echo -en "\e]P44E3A4F"
+echo -en "\e]P561372F"
+echo -en "\e]P66B484C"
+echo -en "\e]P7744537"
+echo -en "\e]P8905749"
+echo -en "\e]P994431C"
+echo -en "\e]PA9F582A"
+echo -en "\e]PBA38687"
+echo -en "\e]PCE1750F"
+echo -en "\e]PDEAAF25"
+echo -en "\e]PEFA8E08"
+echo -en "\e]PFFCA806"
