@@ -1,0 +1,20 @@
+#!/bin/bash
+
+# dkeg 2013,2014 
+# vwbug 
+echo -en "\e]P0170f0d"
+echo -en "\e]P1312C38"
+echo -en "\e]P24D353B"
+echo -en "\e]P3503B43"
+echo -en "\e]P457403E"
+echo -en "\e]P5665453"
+echo -en "\e]P66E5450"
+echo -en "\e]P78E7266"
+echo -en "\e]P8906756"
+echo -en "\e]P9927E7E"
+echo -en "\e]PAAD6042"
+echo -en "\e]PBB48B6F"
+echo -en "\e]PCC4AB98"
+echo -en "\e]PDD9C9B6"
+echo -en "\e]PEE7DDD1"
+echo -en "\e]PFFAF7F2"
