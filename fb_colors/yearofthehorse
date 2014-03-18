@@ -1,0 +1,21 @@
+#!/bin/bash
+
+# franksinistra 
+# year of the horse 
+echo -en "\e]P0141314"
+echo -en "\e]P846423b"
+echo -en "\e]P170473a"
+echo -en "\e]P9916255"
+echo -en "\e]P2534d35"
+echo -en "\e]PA858167"
+echo -en "\e]P39c7650"
+echo -en "\e]P39c7650"
+echo -en "\e]PBad8650"
+echo -en "\e]P4473e38"
+echo -en "\e]PC75715e"
+echo -en "\e]P5543b3b"
+echo -en "\e]PD6b5d51"
+echo -en "\e]P6332425"
+echo -en "\e]PE585858"
+echo -en "\e]P79a875f"
+echo -en "\e]PF917154"
