@@ -1,0 +1,20 @@
+#!/bin/bash
+
+# dkeg 2013,2014 
+# sayagain 
+echo -en "\e]P0170f0d"
+echo -en "\e]P1405156"
+echo -en "\e]P24D2C30"
+echo -en "\e]P34F3946"
+echo -en "\e]P45F5253"
+echo -en "\e]P5608E89"
+echo -en "\e]P6643537"
+echo -en "\e]P76D8773"
+echo -en "\e]P89A6054"
+echo -en "\e]P99D8F75"
+echo -en "\e]PA9E9E8E"
+echo -en "\e]PBB96057"
+echo -en "\e]PCB9B9B5"
+echo -en "\e]PDD09173"
+echo -en "\e]PED5A88D"
+echo -en "\e]PFD7CAB9"
