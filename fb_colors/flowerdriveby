@@ -1,0 +1,20 @@
+#!/bin/bash
+
+# dkeg 2013,2014 
+# flowerdriveby 
+echo -en "\e]P0170F0D"
+echo -en "\e]P12F1D27"
+echo -en "\e]P2472C37"
+echo -en "\e]P34E5232"
+echo -en "\e]P4533446"
+echo -en "\e]P5675552"
+echo -en "\e]P66D905D"
+echo -en "\e]P78E7066"
+echo -en "\e]P8A09072"
+echo -en "\e]P9A65D24"
+echo -en "\e]PAA9D19C"
+echo -en "\e]PBB0A18C"
+echo -en "\e]PCCAB499"
+echo -en "\e]PDDCBB52"
+echo -en "\e]PEE5D3AE"
+echo -en "\e]PFFBF5DC"
