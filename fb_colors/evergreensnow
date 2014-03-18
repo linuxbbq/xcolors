@@ -1,0 +1,21 @@
+#!/bin/bash
+
+# dkeg 2013,2014 
+# evergreensnow 
+
+echo -en "\e]P0170f0d"
+echo -en "\e]P1322A31"
+echo -en "\e]P2373945"
+echo -en "\e]P342383E"
+echo -en "\e]P4563A48"
+echo -en "\e]P55B555C"
+echo -en "\e]P6726E6D"
+echo -en "\e]P7748F8A"
+echo -en "\e]P879817B"
+echo -en "\e]P9866F76"
+echo -en "\e]PA89897A"
+echo -en "\e]PBA4A493"
+echo -en "\e]PCC2BEA4"
+echo -en "\e]PDD3C9AC"
+echo -en "\e]PEEBD6B8"
+echo -en "\e]PFF0E2C7"
