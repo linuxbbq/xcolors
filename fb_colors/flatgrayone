@@ -1,0 +1,20 @@
+#!/bin/bash
+
+# flatgrayone 
+echo -en "\e]P0CECECE"
+echo -en "\e]P0ffffff"
+echo -en "\e]P1294377"
+echo -en "\e]P29278ab"
+echo -en "\e]P3a86c73"
+echo -en "\e]P451365c"
+echo -en "\e]P56b73b8"
+echo -en "\e]P6386ecb"
+echo -en "\e]P7666"
+echo -en "\e]P8424242"
+echo -en "\e]P9566fb4"
+echo -en "\e]PAa08ba0"
+echo -en "\e]PBd0917f"
+echo -en "\e]PC424357"
+echo -en "\e]PD9296b0"
+echo -en "\e]PE6a82a8"
+echo -en "\e]PFffffff"
