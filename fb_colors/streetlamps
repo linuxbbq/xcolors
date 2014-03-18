@@ -1,0 +1,22 @@
+#!/bin/bash
+
+# dkeg 2013,2014 
+# streetlamps 
+
+echo -en "\e]P0111111"
+
+echo -en "\e]P122201D"
+echo -en "\e]P22F2F2F"
+echo -en "\e]P343413C"
+echo -en "\e]P44F4F4E"
+echo -en "\e]P563625C"
+echo -en "\e]P66F6F6D"
+echo -en "\e]P7877B6E"
+echo -en "\e]P8898579"
+echo -en "\e]P990908D"
+echo -en "\e]PAA5A49A"
+echo -en "\e]PBAFAFA9"
+echo -en "\e]PCC7BAA4"
+echo -en "\e]PDCEC9B2"
+echo -en "\e]PEDAD9CF"
+echo -en "\e]PFE4C366"
