@@ -1,0 +1,20 @@
+#!/bin/bash
+
+# dkeg 2013,2014 
+# weathered 
+echo -en "\e]P0170F0D"
+echo -en "\e]P11E1320"
+echo -en "\e]P22B1B23"
+echo -en "\e]P3362A27"
+echo -en "\e]P44C352B"
+echo -en "\e]P558452E"
+echo -en "\e]P668372D"
+echo -en "\e]P76D5232"
+echo -en "\e]P87A5C40"
+echo -en "\e]P97C6236"
+echo -en "\e]PA8B5236"
+echo -en "\e]PB8B6839"
+echo -en "\e]PCAA653C"
+echo -en "\e]PDB46E42"
+echo -en "\e]PEDA9A55"
+echo -en "\e]PFEACA86"
