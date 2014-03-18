@@ -1,0 +1,21 @@
+#!/bin/bash
+
+# dkeg 2013,2014
+# fencetrain
+echo -en "\e]P0170f0d"
+echo -en "\e]P0111111"
+echo -en "\e]P120172A"
+echo -en "\e]P22E243A"
+echo -en "\e]P3382C43"
+echo -en "\e]P447263B"
+echo -en "\e]P54B384A"
+echo -en "\e]P6683A4A"
+echo -en "\e]P768525E"
+echo -en "\e]P88B7173"
+echo -en "\e]P98D7C82"
+echo -en "\e]PAA28A79"
+echo -en "\e]PBA4988F"
+echo -en "\e]PCC5B9A5"
+echo -en "\e]PDCECAB8"
+echo -en "\e]PEDEDBCA"
+echo -en "\e]PFE5E2D4"
