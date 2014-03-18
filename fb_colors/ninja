@@ -1,0 +1,22 @@
+#!/bin/bash
+
+# dkeg 2013,2014 
+# ninja 
+# light on dark
+echo -en "\e]P0cdcdbb"
+echo -en "\e]P01a1a1a"
+echo -en "\e]P14f2517"
+echo -en "\e]P2667350"
+echo -en "\e]P38d7041"
+echo -en "\e]P4384555"
+echo -en "\e]P52e231c"
+echo -en "\e]P66a5e44"
+echo -en "\e]P7c6c2ab"
+echo -en "\e]P8444444"
+echo -en "\e]P9704033 "
+echo -en "\e]PA8b9d6e"
+echo -en "\e]PBd3a876"
+echo -en "\e]PC607985"
+echo -en "\e]PD755947"
+echo -en "\e]PE96988f"
+echo -en "\e]PFf2eed1"
