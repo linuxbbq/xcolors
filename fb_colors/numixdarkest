@@ -1,0 +1,20 @@
+#!/bin/bash
+
+#NumiX Darkest.
+#BY WuX 
+echo -en "\e]P0282828"
+echo -en "\e]P8888888"
+echo -en "\e]P1d64937"
+echo -en "\e]P99C3528"
+echo -en "\e]P286DF5D"
+echo -en "\e]PA61BC3B"
+echo -en "\e]P3FDD75A"
+echo -en "\e]PBF3B43A"
+echo -en "\e]P40F75BD"
+echo -en "\e]PC0D68A8"
+echo -en "\e]P59E5E83"
+echo -en "\e]PD744560"
+echo -en "\e]P637c3d6"
+echo -en "\e]PE288e9c"
+echo -en "\e]P7f9f9f9"
+echo -en "\e]PFA2A2A2"
