@@ -1,0 +1,21 @@
+#!/bin/bash
+
+# dkeg 2013,2014 
+# redphoenix 
+echo -en "\e]P01a1a1a"
+echo -en "\e]P0000000"
+echo -en "\e]P12D2D2D"
+echo -en "\e]P24C3A3D"
+echo -en "\e]P34E4E4E"
+echo -en "\e]P46F6F6F"
+echo -en "\e]P5909090"
+echo -en "\e]P6AAA998"
+echo -en "\e]P7B1B1B1"
+echo -en "\e]P8D1D1D1"
+echo -en "\e]P9D2C3AD"
+echo -en "\e]PADF9767"
+echo -en "\e]PBE1E1E1"
+echo -en "\e]PCEDEDED"
+echo -en "\e]PDED4B19"
+echo -en "\e]PEF2361E"
+echo -en "\e]PFFA390F"
