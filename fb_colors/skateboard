@@ -1,0 +1,20 @@
+#!/bin/bash
+
+# dkeg 2013,2014 
+# skateboard 
+echo -en "\e]P0252525"
+echo -en "\e]P1303030"
+echo -en "\e]P24D4D4D"
+echo -en "\e]P36E6E6E"
+echo -en "\e]P4909090"
+echo -en "\e]P5B0B0B0"
+echo -en "\e]P6D0D0D0"
+echo -en "\e]P7F7F7F7"
+echo -en "\e]P8121212"
+echo -en "\e]P9303030"
+echo -en "\e]PA4D4D4D"
+echo -en "\e]PB6E6E6E"
+echo -en "\e]PC909090"
+echo -en "\e]PDB0B0B0"
+echo -en "\e]PED0D0D0"
+echo -en "\e]PFF7F7F7"
