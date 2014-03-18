@@ -1,0 +1,20 @@
+#!/bin/bash
+
+# franksinistra 
+# color ulcerate vermis 
+echo -en "\e]P0231e1d"
+echo -en "\e]P8231e1d"
+echo -en "\e]P18c635a"
+echo -en "\e]P9997a7e"
+echo -en "\e]P2c4c195"
+echo -en "\e]PAc4cc99"
+echo -en "\e]P3bfa599"
+echo -en "\e]PBe6cfca"
+echo -en "\e]P4a296b0"
+echo -en "\e]PCa796b0"
+echo -en "\e]P571686f"
+echo -en "\e]PD998d98"
+echo -en "\e]P65c4646"
+echo -en "\e]PE878135"
+echo -en "\e]P7bf988f"
+echo -en "\e]PFe4cab9"
