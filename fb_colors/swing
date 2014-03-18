@@ -1,0 +1,20 @@
+#!/bin/bash
+
+# dkeg 2013,2014 
+# swing 
+echo -en "\e]P0170F0D"
+echo -en "\e]P1231C17"
+echo -en "\e]P22C251B"
+echo -en "\e]P3352C23"
+echo -en "\e]P45C4E34"
+echo -en "\e]P5605034"
+echo -en "\e]P6788543"
+echo -en "\e]P78B764C"
+echo -en "\e]P88D6338"
+echo -en "\e]P9AB9667"
+echo -en "\e]PABCAB84"
+echo -en "\e]PBC6AB79"
+echo -en "\e]PCCCB889"
+echo -en "\e]PDE5D1A5"
+echo -en "\e]PEFAEDD0"
+echo -en "\e]PFFEFBF3"
