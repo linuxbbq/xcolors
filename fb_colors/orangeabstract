@@ -1,0 +1,20 @@
+#!/bin/bash
+
+# dkeg 2013,2014 
+# orangeabstract 
+echo -en "\e]P0111111"
+echo -en "\e]P10382A9"
+echo -en "\e]P22E2C30"
+echo -en "\e]P34B494E"
+echo -en "\e]P4677B85"
+echo -en "\e]P57BA0A9"
+echo -en "\e]P67B9EA8"
+echo -en "\e]P7952E07"
+echo -en "\e]P8B13306"
+echo -en "\e]P9C45F3C"
+echo -en "\e]PACA3A06"
+echo -en "\e]PBD8440A"
+echo -en "\e]PCE5FC71"
+echo -en "\e]PDE83E04"
+echo -en "\e]PEF0EFF0"
+echo -en "\e]PFF14506"
