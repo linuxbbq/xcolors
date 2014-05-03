@@ -1,0 +1,29 @@
+! bones 2014 !
+
+!!!! nightscape !!!!
+
+*background:#111111
+*foreground:#d3d3d3
+
+*fading:10
+*fadeColor:#111111
+
+*transparent:0
+*shading:70
+
+*color0: #0A0C11
+*color1: #111526
+*color2: #21221F
+*color3: #2D3747
+*color4: #2F2D2F
+*color5: #354C54
+*color6: #374536
+*color7: #49362B
+*color8: #575F5B
+*color9: #5C4C31
+*color10: #637D7F
+*color11: #6F9FCE
+*color12: #708F94
+*color13: #946738
+*color14: #B4C4B9
+*color15: #BD9E5A
