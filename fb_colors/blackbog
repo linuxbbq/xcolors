@@ -7,7 +7,6 @@
 # *foreground: #d3d3d3
 
 echo -en "\e]P0101010"
-
 echo -en "\e]P1363C21"
 echo -en "\e]P2524D23"
 echo -en "\e]P356562F"
