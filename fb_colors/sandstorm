@@ -1,0 +1,25 @@
+#!/bin/bash
+
+# Launfal, 2014
+# Sandstorm 
+
+# *background: #060201
+# *foreground:   #cba15a
+
+echo -en "\e]P0060201"
+
+echo -en "\e]P12D1002"
+echo -en "\e]P236270A"
+echo -en "\e]P3503104"
+echo -en "\e]P4592306"
+echo -en "\e]P567644D"
+echo -en "\e]P6695322"
+echo -en "\e]P76E4D14"
+echo -en "\e]P87C856A"
+echo -en "\e]P98E6E32"
+echo -en "\e]PA955A22"
+echo -en "\e]PB967848"
+echo -en "\e]PCA7925D"
+echo -en "\e]PDAA4E1B"
+echo -en "\e]PECBA15A"
+echo -en "\e]PFDACBA4"
