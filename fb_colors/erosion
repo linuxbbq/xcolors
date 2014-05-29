@@ -1,0 +1,25 @@
+#!/bin/bash
+
+# bones 2014 
+# erosion 
+
+# *background: #181512
+# *foreground: #bea492
+
+echo -en "\e]P0181512"
+
+echo -en "\e]P18c644c"
+echo -en "\e]P2c4be90"
+echo -en "\e]P3bfba92"
+echo -en "\e]P4646a6d"
+echo -en "\e]P56d6871"
+echo -en "\e]P63b484a"
+echo -en "\e]P7504339"
+echo -en "\e]P8817267"
+echo -en "\e]P99f7155"
+echo -en "\e]PAbec17e"
+echo -en "\e]PBfafac0"
+echo -en "\e]PC626e74"
+echo -en "\e]PD756f7b"
+echo -en "\e]PE444d4e"
+echo -en "\e]PF9a875f"
