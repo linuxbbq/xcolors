@@ -3,7 +3,11 @@
 # dkeg 2014
 # busstop 
 
+# *background:#0f0e0f
+# *foreground:#d3d3d3
+
 echo -en "\e]P00f0e0f"
+
 echo -en "\e]P11D1724"
 echo -en "\e]P2201820"
 echo -en "\e]P3221B28"
@@ -19,3 +23,4 @@ echo -en "\e]PC958A76"
 echo -en "\e]PD9FA594"
 echo -en "\e]PECFCAB0"
 echo -en "\e]PFF3EDDC"
+
