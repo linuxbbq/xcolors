@@ -1,0 +1,25 @@
+#!/bin/bash
+
+# dkeg 2014
+# busstop 
+
+# *background:#0f0e0f
+# *foreground:#d3d3d3
+
+echo -en "\e]P00f0e0f"
+
+echo -en "\e]P11D1724"
+echo -en "\e]P2201820"
+echo -en "\e]P3221B28"
+echo -en "\e]P4282A35"
+echo -en "\e]P5313944"
+echo -en "\e]P639484F"
+echo -en "\e]P73D5761"
+echo -en "\e]P8463F3A"
+echo -en "\e]P9475558"
+echo -en "\e]PA5C6C69"
+echo -en "\e]PB76857A"
+echo -en "\e]PC958A76"
+echo -en "\e]PD9FA594"
+echo -en "\e]PECFCAB0"
+echo -en "\e]PFF3EDDC"
