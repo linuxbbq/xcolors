@@ -1,0 +1,24 @@
+#!/bin/bash
+
+# dkeg 2014 
+# blackbog 
+
+# *background: #101010
+# *foreground: #d3d3d3
+
+echo -en "\e]P0101010"
+echo -en "\e]P1363C21"
+echo -en "\e]P2524D23"
+echo -en "\e]P356562F"
+echo -en "\e]P4563B12"
+echo -en "\e]P5616044"
+echo -en "\e]P668673C"
+echo -en "\e]P7767446"
+echo -en "\e]P87C835A"
+echo -en "\e]P9906942"
+echo -en "\e]PA928D6B"
+echo -en "\e]PB948F6C"
+echo -en "\e]PCAEA888"
+echo -en "\e]PDC08155"
+echo -en "\e]PED63101"
+echo -en "\e]PFE42800"

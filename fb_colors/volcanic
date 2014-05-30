@@ -1,0 +1,25 @@
+#!/bin/bash
+
+# dkeg 2014 
+# <volcanic> 
+
+# *background:#171717
+# *foreground:#d3d3d3
+
+echo -en "\e]P0171717"
+
+echo -en "\e]P122192C"
+echo -en "\e]P2342736"
+echo -en "\e]P3373349"
+echo -en "\e]P4474352"
+echo -en "\e]P54C2D39"
+echo -en "\e]P64E3748"
+echo -en "\e]P7544755"
+echo -en "\e]P8685B66"
+echo -en "\e]P96A3039"
+echo -en "\e]PA6C3946"
+echo -en "\e]PB6D4C53"
+echo -en "\e]PC945D5B"
+echo -en "\e]PD9D413D"
+echo -en "\e]PEAF8A72"
+echo -en "\e]PFB29E86"

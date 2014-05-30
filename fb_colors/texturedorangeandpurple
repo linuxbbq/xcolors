@@ -1,0 +1,25 @@
+#!/bin/bash
+
+#dkeg,2014
+# texturedorangepurple 
+
+# *background:#171717
+# *foreground:#d3d3d3
+
+echo -en "\e]P0171717"
+
+echo -en "\e]P15E3B58"
+echo -en "\e]P2A36A6D"
+echo -en "\e]P3A47783"
+echo -en "\e]P4B3958A"
+echo -en "\e]P5B58D7A"
+echo -en "\e]P6BDC2A2"
+echo -en "\e]P7C47A68"
+echo -en "\e]P8CF8E72"
+echo -en "\e]P9D7B191"
+echo -en "\e]PAE2AB7A"
+echo -en "\e]PBE9D3B0"
+echo -en "\e]PCECDBAA"
+echo -en "\e]PDF0CD93"
+echo -en "\e]PEF0E7D4"
+echo -en "\e]PFF2E8D3"

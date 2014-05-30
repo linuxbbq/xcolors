@@ -1,0 +1,19 @@
+#!/bin/bash
+
+# bones 2014 
+# espresso 
+echo -en "\e]P1302522"
+echo -en "\e]P25A3E2B"
+echo -en "\e]P3686263"
+echo -en "\e]P4837D82"
+echo -en "\e]P5928C90"
+echo -en "\e]P6956732"
+echo -en "\e]P7967554"
+echo -en "\e]P8A39C9F"
+echo -en "\e]P9B2ADB1"
+echo -en "\e]PAB48B56"
+echo -en "\e]PBC8BCB8"
+echo -en "\e]PCD3A163"
+echo -en "\e]PDD3D3D3"
+echo -en "\e]PEE8DEDA"
+echo -en "\e]PFEDEDED"

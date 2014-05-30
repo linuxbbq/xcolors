@@ -1,0 +1,25 @@
+#!/bin/bash
+
+# bones 2014 
+# nightscape 
+
+# *background:#111111
+# *foreground:#d3d3d3
+
+echo -en "\e]P0111111"
+
+echo -en "\e]P1111526"
+echo -en "\e]P221221F"
+echo -en "\e]P32D3747"
+echo -en "\e]P42F2D2F"
+echo -en "\e]P5354C54"
+echo -en "\e]P6374536"
+echo -en "\e]P749362B"
+echo -en "\e]P8575F5B"
+echo -en "\e]P95C4C31"
+echo -en "\e]PA637D7F"
+echo -en "\e]PB6F9FCE"
+echo -en "\e]PC708F94"
+echo -en "\e]PD946738"
+echo -en "\e]PEB4C4B9"
+echo -en "\e]PFBD9E5A"
