@@ -1,5 +1,8 @@
 !!! sky
 
+*background: #000000
+*foreground: #f9f9f9
+
 *color0: #030A04
 *color1: #182E14
 *color2: #2F4D19

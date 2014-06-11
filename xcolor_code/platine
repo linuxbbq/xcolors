@@ -1,4 +1,8 @@
 !!! platine
+
+*background: #000000
+*foreground: #f9f9f9
+
 *color0: #031F20
 *color1: #030707
 *color2: #042E2F
