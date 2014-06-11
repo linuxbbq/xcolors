@@ -1,0 +1,18 @@
+#!/bin/bash
+echo -en "\e]P0000000"
+echo -en "\e]P1392e2b"
+echo -en "\e]P2512925"
+echo -en "\e]P355433C"
+echo -en "\e]P4675A52"
+echo -en "\e]P5A1372F"
+echo -en "\e]P6A68E75"
+echo -en "\e]P7B9748A"
+echo -en "\e]P8D2BCAE"
+echo -en "\e]P9D52D2C"
+echo -en "\e]PAD75B4E"
+echo -en "\e]PBEC3737"
+echo -en "\e]PCEC4C3B"
+echo -en "\e]PDFB9A58"
+echo -en "\e]PEFC5144"
+echo -en "\e]PFFC6C4C"
+clear

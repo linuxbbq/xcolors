@@ -1,0 +1,24 @@
+#!/bin/bash
+
+
+# *background: #111111
+# *foreground: #d1cdbd
+
+echo -en "\e]P0000000"
+
+echo -en "\e]P1414044"
+echo -en "\e]P2512F0E"
+echo -en "\e]P35C3112"
+echo -en "\e]P45F4B2A"
+echo -en "\e]P56E4F2E"
+echo -en "\e]P66F6056"
+echo -en "\e]P7704A0F"
+echo -en "\e]P87A8285"
+echo -en "\e]P98F7258"
+echo -en "\e]PA91621D"
+echo -en "\e]PB97979B"
+echo -en "\e]PCA04A19"
+echo -en "\e]PDA69063"
+echo -en "\e]PEC39852"
+echo -en "\e]PFD1CDBD"
+clear
