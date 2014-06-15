@@ -1,0 +1,27 @@
+#!/bin/bash
+
+# dkeg 2014
+# barn 
+#*color9: #931A0E
+
+# *background:#131313
+# *foreground:#d3d3d3
+
+echo -en "\e]P0131313"
+
+echo -en "\e]P1251915"
+echo -en "\e]P227221D"
+echo -en "\e]P3332F2E"
+echo -en "\e]P43A3E45"
+echo -en "\e]P5443B37"
+echo -en "\e]P6443D42"
+echo -en "\e]P74A443B"
+echo -en "\e]P84D4948"
+echo -en "\e]P9531A0E"
+echo -en "\e]P9931A0E"
+echo -en "\e]PA64502C"
+echo -en "\e]PB666562"
+echo -en "\e]PC876C77"
+echo -en "\e]PD9AA2A1"
+echo -en "\e]PEAEC5D3"
+echo -en "\e]PFDFEDF1"
