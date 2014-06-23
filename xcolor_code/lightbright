@@ -1,0 +1,37 @@
+! dkeg 2014
+! lightbright 
+
+*foreground: #0f0e0f
+*background: #bebebe
+
+! Black
+*color0: #0f161c
+*color8: #18222B
+
+! Red
+*color1: #3b0b0b
+*color9: #610b0b
+
+! Green
+*color2: #0b3b0b
+*color10: #0b610b
+
+! Yellow
+*color3: #3a2f0b
+*color11:#5f4c0b
+
+! Blue 
+*color4: #0a0a2a
+*color12: #0b3b2b
+
+! Magenta
+*color5: #4f334e
+*color13: #64307A
+
+! Cyan
+*color6: #0b3b2e
+*color14: #0b3b39
+
+! White 
+*color7: #2e2e2e
+*color15: #424242 
