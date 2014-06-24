@@ -1,0 +1,22 @@
+#!/bin/bash
+
+# dkeg 2014
+# lightbright 
+
+echo -en "\e]P0bebebe"
+
+echo -en "\e]P818222B"
+echo -en "\e]P13b0b0b"
+echo -en "\e]P9610b0b"
+echo -en "\e]P20b3b0b"
+echo -en "\e]PA0b610b"
+echo -en "\e]P33a2f0b"
+echo -en "\e]PB5f4c0b"
+echo -en "\e]P40a0a2a"
+echo -en "\e]PC0b3b2b"
+echo -en "\e]P54f334e"
+echo -en "\e]PD64307A"
+echo -en "\e]P60b3b2e"
+echo -en "\e]PE0b3b39"
+echo -en "\e]P72e2e2e"
+echo -en "\e]PF424242 "
