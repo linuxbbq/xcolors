@@ -1,0 +1,24 @@
+#!/bin/bash
+
+
+# *background:       #001c00
+# *foreground:       #a6ff00
+
+echo -en "\e]P0001c00"
+
+echo -en "\e]P1005600"
+echo -en "\e]P2007100"
+echo -en "\e]P3009000"
+echo -en "\e]P4000100"
+echo -en "\e]P500D200"
+echo -en "\e]P600F800"
+echo -en "\e]P7a6ff00" # swapped this for readability
+echo -en "\e]P8003000"
+echo -en "\e]P9005600"
+echo -en "\e]PA007100"
+echo -en "\e]PB009000"
+echo -en "\e]PC00AF00"
+echo -en "\e]PD00D200"
+echo -en "\e]PE006600"
+echo -en "\e]PF09ff00"
+clear
