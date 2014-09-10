@@ -1,13 +1,12 @@
 #!/bin/bash
 
-# dkeg 2014
+# dkeg 2014 for fbcolors
 # barn 
 
 # *background:#131313
 # *foreground:#d3d3d3
 
 echo -en "\e]P0131313"
-
 echo -en "\e]P1251915"
 echo -en "\e]P227221D"
 echo -en "\e]P3332F2E"

@@ -5,14 +5,6 @@
 # original is here: http://crunchbang.org/forums/viewtopic.php?pid=212283#p212283
 #*background:       #000000
 #*foreground:       #EEEEEE
-#black
-#red
-#green
-#yellow
-#blue
-#magenta
-#cyan
-#white
 echo -en "\e]P8888888"
 echo -en "\e]P1CC5555"
 echo -en "\e]P9FF8888"

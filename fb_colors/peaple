@@ -1,13 +1,12 @@
 #!/bin/bash
 
 # Alad 2014
-# peaple 
+# peaple for fbcolors
 
 # *background: #000000
 # *foreground: #ffffff
 
 echo -en "\e]P0000000"
-
 echo -en "\e]P1060C2E"
 echo -en "\e]P20D2738"
 echo -en "\e]P31D235A"

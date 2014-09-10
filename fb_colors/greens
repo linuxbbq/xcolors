@@ -6,7 +6,6 @@
 # *foreground:       #a3d5b6
 
 echo -en "\e]P0000000"
-
 echo -en "\e]P10B2A15"
 echo -en "\e]P2133525"
 echo -en "\e]P3134C2E"

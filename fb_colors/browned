@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# browned
+# browned for fbcolors
 
 echo -en "\e]P01f1b18"
 echo -en "\e]P19a7474"

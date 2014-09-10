@@ -9,7 +9,6 @@
 # *foreground:       #EEEEEE
 
 echo -en "\e]P0000000"
-
 echo -en "\e]P1304B6D"
 echo -en "\e]P2355D8F"
 echo -en "\e]P3372B25"

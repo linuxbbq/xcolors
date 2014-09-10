@@ -1,11 +1,10 @@
 #!/bin/bash
 
-
+# bernstein for fbcolors
 # *background: #111111
 # *foreground: #d1cdbd
 
 echo -en "\e]P0000000"
-
 echo -en "\e]P1414044"
 echo -en "\e]P2512F0E"
 echo -en "\e]P35C3112"
