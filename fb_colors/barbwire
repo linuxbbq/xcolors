@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# dkeg 2013,2014 
+# dkeg 2013,2014 for fbcolors 
 # barbwire 
 
 echo -en "\e]P0170f0d"
