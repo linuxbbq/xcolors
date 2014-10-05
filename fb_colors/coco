@@ -1,0 +1,25 @@
+#!/bin/bash
+
+# dkeg 2014
+# coco 
+#*cursorColor: #8c2a1f
+
+# *background: #0a0909
+# *foreground: #abacae
+
+echo -en "\e]P00a0909"
+echo -en "\e]P17c423a"
+echo -en "\e]P28d7138"
+echo -en "\e]P3856237"
+echo -en "\e]P43c3c49"
+echo -en "\e]P53c342e"
+echo -en "\e]P65d5a4b"
+echo -en "\e]P7d6c7b8"
+echo -en "\e]P8332d29"
+echo -en "\e]P97c423a"
+echo -en "\e]PA8d7138"
+echo -en "\e]PB856237"
+echo -en "\e]PC3c3c49"
+echo -en "\e]PD3c342e"
+echo -en "\e]PE5d5a4b"
+echo -en "\e]PFd6c7b8"
