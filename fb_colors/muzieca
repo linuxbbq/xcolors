@@ -1,0 +1,22 @@
+#!/bin/bash
+
+# muzieca 2012
+# slightly modified by pidsley 2013-2014
+# original is here: http://crunchbang.org/forums/viewtopic.php?pid=212283#p212283
+#*background:       #000000
+#*foreground:       #EEEEEE
+echo -en "\e]P8888888"
+echo -en "\e]P1CC5555"
+echo -en "\e]P9FF8888"
+echo -en "\e]P266BB88"
+echo -en "\e]PA99EEBB"
+echo -en "\e]P3CC8855"
+echo -en "\e]PBFFBB88"
+echo -en "\e]P46688BB"
+echo -en "\e]PC99BBEE"
+echo -en "\e]P5CC5588"
+echo -en "\e]PDFF88BB"
+echo -en "\e]P666BBBB"
+echo -en "\e]PE99EEEE"
+echo -en "\e]P7BBBBBB"
+echo -en "\e]PFEEEEEE"

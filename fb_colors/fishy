@@ -1,0 +1,26 @@
+#!/bin/bash
+
+# fishy 
+# pidsley 2014
+# i have no idea where this came from
+# i swear it just appeared on my machine one day
+
+# *background:       #000000
+# *foreground:       #EEEEEE
+
+echo -en "\e]P0000000"
+echo -en "\e]P1304B6D"
+echo -en "\e]P2355D8F"
+echo -en "\e]P3372B25"
+echo -en "\e]P4448CAA"
+echo -en "\e]P5526270"
+echo -en "\e]P6537190"
+echo -en "\e]P7537AA7"
+echo -en "\e]P85A85B1"
+echo -en "\e]P9627992"
+echo -en "\e]PA6B8EB3"
+echo -en "\e]PB6B8799"
+echo -en "\e]PC739BC5"
+echo -en "\e]PD90ABC5"
+echo -en "\e]PEAB402D"
+echo -en "\e]PFB29452"

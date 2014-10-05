@@ -1,12 +1,9 @@
 #!/bin/bash
 
 # machinebacon 2014
-# photo for palette courtesy of
-# photonucleon
-# bbq 
+# bbq for fbcolors
 
 echo -en "\e]P01a1a1a"
-
 echo -en "\e]P12E0501"
 echo -en "\e]P23E2016"
 echo -en "\e]P34E1001"

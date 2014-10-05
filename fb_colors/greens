@@ -1,0 +1,23 @@
+#!/bin/bash
+
+# greens  pidsley 2014
+
+# *background:       #000000
+# *foreground:       #a3d5b6
+
+echo -en "\e]P0000000"
+echo -en "\e]P10B2A15"
+echo -en "\e]P2133525"
+echo -en "\e]P3134C2E"
+echo -en "\e]P41B592A"
+echo -en "\e]P527352A"
+echo -en "\e]P62B4D35"
+echo -en "\e]P72C664C"
+echo -en "\e]P83D9E67"
+echo -en "\e]P9404F3E"
+echo -en "\e]PA4E6B57"
+echo -en "\e]PB59976D"
+echo -en "\e]PC63AC8C"
+echo -en "\e]PD64CE9D"
+echo -en "\e]PE80987F"
+echo -en "\e]PFA3D5B6"

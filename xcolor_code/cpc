@@ -1,0 +1,23 @@
+!!! cpc !!!
+!!! based on the green phosphor Amstrad CPC screen colors !!!
+
+*background:       #001c00
+*foreground:       #a6ff00
+
+
+*color0: #003000
+*color1: #005600
+*color2: #007100
+*color3: #009000
+*color4: #000100
+*color5: #00D200
+*color6: #00F800
+*color7: #006300
+*color8: #003000
+*color9: #005600
+*color10: #007100
+*color11: #009000
+*color12: #00AF00
+*color13: #00D200
+*color14: #006600
+*color15: #09ff00

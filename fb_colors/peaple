@@ -1,0 +1,24 @@
+#!/bin/bash
+
+# Alad 2014
+# peaple for fbcolors
+
+# *background: #000000
+# *foreground: #ffffff
+
+echo -en "\e]P0000000"
+echo -en "\e]P1060C2E"
+echo -en "\e]P20D2738"
+echo -en "\e]P31D235A"
+echo -en "\e]P4284D72"
+echo -en "\e]P536608A"
+echo -en "\e]P648827E"
+echo -en "\e]P7493177"
+echo -en "\e]P8584199"
+echo -en "\e]P95D629C"
+echo -en "\e]PA618FAE"
+echo -en "\e]PB769CCC"
+echo -en "\e]PC8F69AF"
+echo -en "\e]PD9375CD"
+echo -en "\e]PE9E9CDD"
+echo -en "\e]PFAEAEDB"

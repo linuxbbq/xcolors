@@ -1,0 +1,21 @@
+#!/bin/bash
+
+# dkeg 2013,2014
+# colorstar
+
+echo -en "\e]P0111111"
+echo -en "\e]P1503b43"
+echo -en "\e]P2353B64"
+echo -en "\e]P38c2424"
+echo -en "\e]P46067AC"
+echo -en "\e]P5624D19"
+echo -en "\e]P67C83C0"
+echo -en "\e]P79A600F"
+echo -en "\e]P8AB9E9E"
+echo -en "\e]P9B28930"
+echo -en "\e]PABBADA9"
+echo -en "\e]PBC37305"
+echo -en "\e]PCD0AE58"
+echo -en "\e]PDD7B559"
+echo -en "\e]PEF4E199"
+echo -en "\e]PFF6F4DF"

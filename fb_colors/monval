@@ -1,0 +1,17 @@
+# monval by macbac 
+echo -en "\e]P139454E"
+echo -en "\e]P23A3F41"
+echo -en "\e]P34F4934"
+echo -en "\e]P4503207"
+echo -en "\e]P551534C"
+echo -en "\e]P6553119"
+echo -en "\e]P76B5426"
+echo -en "\e]P86E4E0E"
+echo -en "\e]P996661C"
+echo -en "\e]PA9D4517"
+echo -en "\e]PBB1892C"
+echo -en "\e]PCD69B2B"
+echo -en "\e]PDD9AB53"
+echo -en "\e]PEDE610D"
+echo -en "\e]PFF9E3A7"
+clear

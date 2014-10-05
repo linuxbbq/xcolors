@@ -1,4 +1,7 @@
 #!/bin/bash
+
+# calligraphy for fbcolors
+
 echo -en "\e]P0000000"
 echo -en "\e]P1392e2b"
 echo -en "\e]P2512925"

@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# blackandwhite
+# blackandwhite for fbcolors
 
 echo -en "\e]P0FFFFFF"
 echo -en "\e]P89A9A9A"
