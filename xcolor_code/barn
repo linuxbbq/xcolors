@@ -1,23 +1,22 @@
-!! dkeg 2014
-
-!!!! barn !!!!
+! dkeg 2014
+! barn
 
 *background:#131313
-*foreground:#d3d3d3
+*foreground:#abacae
 
 *color0: #222222
-*color1: #251915
-*color2: #27221D
+*color1: #54342a
+*color2: #3e3329
 *color3: #332F2E
 *color4: #3A3E45
 *color5: #443B37
-*color6: #443D42
-*color7: #4A443B
-*color8: #4D4948
-*color9: #531A0E
-*color10: #64502C
-*color11: #666562
-*color12: #876C77
-*color13: #9AA2A1
-*color14: #AEC5D3
-*color15: #DFEDF1
+*color6: #a4a19d
+*color7: #807c75
+*color8: #222222
+*color9: #54342a
+*color10: #3e3329
+*color11: #332f2e
+*color12: #3a3e45
+*color13: #443b37
+*color14: #a4a19d
+*color15: #807c75
