@@ -1,0 +1,22 @@
+! dkeg 2014
+! blend
+
+*background:   #121212
+*foreground:   #abacae
+
+*color0:       #2a2a2a
+*color1:       #4c3333
+*color2:       #959c4f
+*color3:       #976c4e
+*color4:       #3d5a72
+*color5:       #978a9b
+*color6:       #4a5e5b
+*color7:       #a1a7ad
+*color8:       #4a4a4a
+*color9:       #8d4d4d
+*color10:      #b6bd6e
+*color11:      #bc9f67
+*color12:      #7a9dbc
+*color13:      #ae9eb3
+*color14:      #80a09b
+*color15:      #c7cbcf
