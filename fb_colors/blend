@@ -1,0 +1,20 @@
+#!/bin/bash
+
+# dkeg 2014
+# blend for fbterm
+echo -en "\e]P0121212"
+echo -en "\e]P14c3333"
+echo -en "\e]P2959c4f"
+echo -en "\e]P3976c4e"
+echo -en "\e]P43d5a72"
+echo -en "\e]P5978a9b"
+echo -en "\e]P64a5e5b"
+echo -en "\e]P7a1a7ad"
+echo -en "\e]P83a3a3a"
+echo -en "\e]P98d4d4d"
+echo -en "\e]PAb6bd6e"
+echo -en "\e]PBbc9f67"
+echo -en "\e]PC7a9dbc"
+echo -en "\e]PDae9eb3"
+echo -en "\e]PE80a09b"
+echo -en "\e]PFc7cbcf"
