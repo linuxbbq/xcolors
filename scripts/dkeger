@@ -1,0 +1,32 @@
+#!/bin/bash
+
+# IMPORTANT:  add   #include </home/user/.Xresources_colors>
+#             to your ~/.Xresources file, preferrably at the bottom
+
+XRES=~/.Xresources_colors
+COLORS=~/xcolors/xcolor_code
+
+term_restart(){
+        xrdb -merge ~/.Xresources
+        /bin/bash -c x-terminal-emulator &
+}
+
+menu(){
+array=( $(ls "$COLORS") )
+select opt in "${array[@]}"; do
+   echo "Copying $opt to $XRES"
+   cp $COLORS/$opt $XRES
+   echo $opt > ~/.xcolorselect
+   term_restart
+   break
+done
+}
+
+[[ -z $1 ]] && menu && exit 0
+
+if [ -e $COLORS/$1 ]; then
+   cp $COLORS/$1 $XRES
+   echo $1 > ~/.xcolorselect
+   term_restart
+   exit 0
+fi
