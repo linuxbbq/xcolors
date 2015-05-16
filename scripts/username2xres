@@ -1,0 +1,6 @@
+#!/bin/bash
+
+REAL="$USER"
+XRES=/home/$USER/.Xresources
+
+sed -i "s|user|$REAL|g" "$XRES"
