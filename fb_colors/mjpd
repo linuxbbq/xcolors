@@ -1,0 +1,20 @@
+#!/bin/bash
+
+## Console colors - Franksinistra - mjpd;
+echo -en "\e]P0282828" #background
+echo -en "\e]P85c5857" #darkgrey
+echo -en "\e]P1d4576f" #darkred
+echo -en "\e]P9ec5661" #red
+echo -en "\e]P2adb78d" #darkgreen
+echo -en "\e]PAbdc79e" #green
+echo -en "\e]P3cf7e67" #brown
+echo -en "\e]PBe28672" #yellow
+echo -en "\e]P4768d82" #darkblue
+echo -en "\e]PC849f98" #blue
+echo -en "\e]P575727a" #darkmagenta
+echo -en "\e]PD8b9c92" #magenta
+echo -en "\e]P6957c65" #darkcyan
+echo -en "\e]PE939080" #cyan
+echo -en "\e]P7c6c2bd" #lightgrey
+echo -en "\e]PFe0d9c6" #white
+clear #for background artifacting
