@@ -1,0 +1,29 @@
+! franksinistra !
+!!! mjpl !!!
+
+*background: #f7f4de
+*foreground: #5d6462
+!black
+*color0:    #5a595d
+*color8:    #6c696d
+!red
+*color1:    #b84259
+*color9:    #c0403d
+!green
+*color2:    #3b7559
+*color10:   #608b42
+!yellow
+*color3:    #a95d47
+*color11:   #c07d3d
+!blue
+*color4:    #3c657e
+*color12:   #387280
+!magenta
+*color5:    #685672
+*color13:   #777282
+!cyan
+*color6:    #6b6254
+*color14:   #8d806a
+!white
+*color7:    #aca591
+*color15:   #b6b3a8
