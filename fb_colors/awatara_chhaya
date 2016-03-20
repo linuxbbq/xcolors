@@ -1,0 +1,20 @@
+#!/bin/bash
+
+## Console colors - Franksinistra - awatara_chhaya;
+echo -en "\e]P0EEDFCC" #background
+echo -en "\e]P8555256" #darkgrey
+echo -en "\e]P1A33555" #darkred
+echo -en "\e]P9CE6D6D" #red
+echo -en "\e]P2666E4D" #darkgreen
+echo -en "\e]PA8A9A61" #green
+echo -en "\e]P3AD563D" #orange
+echo -en "\e]PBCE7244" #bright_orange
+echo -en "\e]P4375e54" #darkblue
+echo -en "\e]PC6C9889" #blue
+echo -en "\e]P55B5040" #darkmagenta
+echo -en "\e]PD84745C" #magenta
+echo -en "\e]P6616960" #darkcyan
+echo -en "\e]PE848f86" #cyan
+echo -en "\e]P79D9180" #lightgrey
+echo -en "\e]PF50484E" #white
+clear #for background artifacting

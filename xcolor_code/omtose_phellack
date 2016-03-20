@@ -1,0 +1,29 @@
+! franksinistra !
+!!! omtose_phellack !!!
+
+*background:                    #1c1d1f
+*foreground:                    #dbdbdb
+!Black
+*color0:                        #4E4C57
+*color8:                        #63636e
+!Red
+*color1:                        #B262AF
+*color9:                        #cc68c8
+!Green
+*color2:                        #74b2a8
+*color10:                       #7ccfc1
+!Yellow
+*color3:                        #AFCCBC
+*color11:                       #B4DEC7
+!Blue
+*color4:                        #668EB0
+*color12:                       #6ca7d9
+!Magenta
+*color5:                        #7f84ba
+*color13:                       #868dd9
+!Cyan
+*color6:                        #7F8FB2
+*color14:                       #b2b2d4
+!White
+*color7:                        #bcc1c4
+*color15:                       #d5d8de

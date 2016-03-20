@@ -1,0 +1,19 @@
+#!/bin/bash
+
+## Console colors - Franksinistra - omtose_phellack;
+echo -en "\e]P0252629" #black
+echo -en "\e]P863636E" #darkgrey
+echo -en "\e]P1A06BB0" #Darkred
+echo -en "\e]P9B88cd4" #red
+echo -en "\e]P280BAB4" #darkgreen
+echo -en "\e]PA9CD6cd" #green
+echo -en "\e]P3ABCCBA" #brown
+echo -en "\e]PBBFDECD" #yellow
+echo -en "\e]P45D809E" #darkblue
+echo -en "\e]PC7498B8" #blue
+echo -en "\e]P57276A6" #darkmagenta
+echo -en "\e]PD9198C9" #magenta
+echo -en "\e]P68797B5" #darkcyan
+echo -en "\e]PEA3B4D4" #cyan
+echo -en "\e]P7BCC1C4" #lightgrey
+clear #for background artifacting

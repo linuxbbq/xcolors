@@ -1,0 +1,30 @@
+! franksinistra !
+!!! awatara chhaya !!!
+
+*background: #EEDFCC
+*foreground: #50484E
+! black
+*color0: #433F44
+*color8: #555256
+! red
+*color1: #d75f87
+*color9: #CE6D6D
+! green
+*color2: #666e4d
+*color10: #8a9a61
+! yellow
+*color3: #ad563d
+*color11: #ce7244
+! blue
+*color4: #375e54
+*color12: #6c9889
+! magenta
+*color5: #5b5040
+*color13: #84745c
+! cyan
+*color6: #616960
+*color14: #848f86
+color14:   #8d806a
+!white
+*color7:    #9d9180
+*color15:   #b1ac99
