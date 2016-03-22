@@ -1,0 +1,20 @@
+#!/bin/bash
+
+## Console colors - Dkeg - urban_2;
+echo -en "\e]P0312E39" #background
+echo -en "\e]P833303B" #darkgrey
+echo -en "\e]P187404F" #darkred
+echo -en "\e]P987404F" #red
+echo -en "\e]P274934E" #darkgreen
+echo -en "\e]PA74934E" #green
+echo -en "\e]P3CD9359" #brown
+echo -en "\e]PBCD9359" #yellow
+echo -en "\e]P4615772" #darkblue
+echo -en "\e]PC615772" #blue
+echo -en "\e]P5783E57" #darkmagenta
+echo -en "\e]PD783E57" #magenta
+echo -en "\e]P6554757" #darkcyan
+echo -en "\e]PE554757" #cyan
+echo -en "\e]P7C0A79A" #lightgrey
+echo -en "\e]PFC0A79A" #white
+clear #for background artifacting
